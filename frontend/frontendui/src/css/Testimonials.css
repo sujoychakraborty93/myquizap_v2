@@ -1,0 +1,28 @@
+.testimonials {
+    padding: 50px 20px;
+    background: #333;
+    color: white;
+    overflow: hidden;
+    white-space: nowrap;
+    margin-top: 5vh;
+  }
+  
+  .testimonial-track {
+    display: flex;
+    animation: scroll 10s linear infinite;
+  }
+  
+  .testimonial {
+    margin: 0 30px;
+    font-size: 1.5em;
+  }
+  
+  @keyframes scroll {
+    from {
+      transform: translateX(100%);
+    }
+    to {
+      transform: translateX(-100%);
+    }
+  }
+  

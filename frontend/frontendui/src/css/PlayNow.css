@@ -1,0 +1,129 @@
+/* src/components/Playnow.css */
+
+.playnow-container {
+    margin-top: 10vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .filter-section {
+    margin-bottom: 1vh;
+    background-color: rgb(255, 255, 255);
+    /* border: 2px solid #a5acb2; */
+    border-radius: 10px;
+    box-shadow: 2px 2px #94999e;
+  }
+  
+  .filter-button {
+    padding: 10px 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    background-color: #f0f0f0;
+    cursor: pointer;
+  }
+  
+  .filter-button.selected {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .fetch-questions-button {
+    padding: 10px 20px;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    border: none;
+    border-radius: 5px;
+    background-color: #28a745;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .question-section {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 1vh;
+    background-color: rgb(255, 255, 255);
+    /* border: 2px solid #a5acb2; */
+    border-radius: 10px;
+    box-shadow: 2px 2px #94999e;
+  }
+  
+  .score-display {
+    margin-bottom: 20px;
+    font-size: 18px;
+  }
+
+  /* .ques-ans-box.disabled{
+    pointer-events: none;
+    opacity: 0.4;
+    cursor: not-allowed;
+  } */
+  .disabled{
+    pointer-events: none;
+    opacity: 0.4;
+    cursor: not-allowed;
+  }
+
+  .question-box {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    margin: 2vh 4vh;
+  }
+  
+  .answers {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .answer {
+    width: 45%;
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #f9f9f9;
+    text-align: center;
+  }
+  
+  .answer.selected {
+    /* background-color: #007bff; */
+    /* color: white; */
+  }
+  
+  .navigation-buttons {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  .previous-button, .submit-button, .next-button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 1vh 3vh 3vh 3vh;
+  }
+  
+  .previous-button {
+    background-color: #6c757d;
+    color: white;
+  }
+  
+  .submit-button {
+    background-color: #28a745;
+    color: white;
+  }
+  
+  .next-button {
+    background-color: #007bff;
+    color: white;
+  }
+  

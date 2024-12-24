@@ -1,0 +1,360 @@
+_id,question_id,question_title,answers[0].text,answers[1].text,answers[2].text,answers[3].text,answers[0].is_correct,answers[1].is_correct,answers[2].is_correct,answers[3].is_correct,region,topic[0],topic[1],topic[2],difficulty
+666388809d00580d4ad50c24,1,Who is the current President of India (as of 2024)?,Droupadi Murmu,Ram Nath Kovind,Pranab Mukherjee,A.P.J. Abdul Kalam,true,false,false,false,India,Politics,History,,Easy
+666388809d00580d4ad50c25,2,Which Indian Prime Minister signed the Indo-US Nuclear Deal?,Manmohan Singh,Narendra Modi,Atal Bihari Vajpayee,Rajiv Gandhi,true,false,false,false,India,Politics,History,,Hard
+666388809d00580d4ad50c26,3,What is the Article 370 known for?,Special status to Jammu & Kashmir,Reservation in education,Emergency powers,Fundamental rights,true,false,false,false,India,Politics,,,Medium
+666388809d00580d4ad50c27,4,Who was the first Prime Minister of India to resign from office?,Morarji Desai,Indira Gandhi,Lal Bahadur Shastri,P.V. Narasimha Rao,true,false,false,false,India,Politics,History,,Hard
+666388809d00580d4ad50c28,5,Which party is known as the oldest political party in India?,Indian National Congress,Bharatiya Janata Party,Communist Party of India,Nationalist Congress Party,true,false,false,false,India,Politics,History,,Easy
+666388809d00580d4ad50c29,6,Who was the first Speaker of the Lok Sabha?,Ganesh Vasudev Mavalankar,Sarvepalli Radhakrishnan,K.S. Hegde,Sumitra Mahajan,true,false,false,false,India,Politics,History,,Hard
+666388809d00580d4ad50c2a,7,What is the maximum strength of the Lok Sabha?,552,500,545,560,true,false,false,false,India,Politics,,,Easy
+666388809d00580d4ad50c2b,8,"Which Indian political leader initiated the ""Green Revolution""?",Lal Bahadur Shastri,Indira Gandhi,P.V. Narasimha Rao,Rajiv Gandhi,true,false,false,false,India,Politics,History,,Medium
+666388809d00580d4ad50c2c,9,Who was the first Governor-General of independent India?,Lord Mountbatten,C. Rajagopalachari,Warren Hastings,Lord Wavell,true,false,false,false,India,Politics,History,,Easy
+666388809d00580d4ad50c2d,10,Which Indian state was the first to implement the Panchayati Raj system?,Rajasthan,Bihar,Uttar Pradesh,Kerala,true,false,false,false,India,Politics,History,,Hard
+666388809d00580d4ad50c2e,11,Who is known as the 'Iron Lady of India'?,Indira Gandhi,Sarojini Naidu,Sucheta Kriplani,Pratibha Patil,true,false,false,false,India,Politics,History,,Medium
+666388809d00580d4ad50c2f,12,Who is the current Chief Minister of Maharashtra (as of 2024)?,Eknath Shinde,Uddhav Thackeray,Devendra Fadnavis,Ashok Chavan,true,false,false,false,India,Politics,,,Hard
+666388809d00580d4ad50c30,13,Which article of the Indian Constitution deals with the protection of minorities?,Article 29,Article 15,Article 19,Article 25,true,false,false,false,India,Politics,History,,Hard
+666388809d00580d4ad50c31,14,Who was the first woman to serve as the Chief Minister of an Indian state?,Sucheta Kriplani,Jayalalithaa,Mamata Banerjee,Vasundhara Raje,true,false,false,false,India,Politics,History,,Hard
+666388809d00580d4ad50c32,15,What does the term 'Franchise' refer to in Indian politics?,The right to vote,Forming a government,Joining a political party,Protesting policies,true,false,false,false,India,Politics,History,,Hard
+666388809d00580d4ad50c33,16,Which commission was set up to investigate the Babri Masjid demolition?,Liberhan Commission,Nanavati Commission,Shah Commission,Verma Commission,true,false,false,false,India,Politics,History,,Hard
+666388809d00580d4ad50c34,17,Which political party does Arvind Kejriwal belong to?,Aam Aadmi Party,Bharatiya Janata Party,Indian National Congress,Samajwadi Party,true,false,false,false,India,Politics,History,,Easy
+666388809d00580d4ad50c35,18,Who appoints the judges of the Supreme Court of India?,The President of India,The Prime Minister,The Chief Justice of India,The Law Minister,true,false,false,false,India,Politics,,,Medium
+666388809d00580d4ad50c36,19,Which Indian state was created in 2000 along with Uttarakhand and Jharkhand?,Chhattisgarh,Telangana,Mizoram,Sikkim,true,false,false,false,India,Politics,History,,Medium
+666388809d00580d4ad50c37,20,Which political leader is known for the 'Operation Blue Star'?,Indira Gandhi,Rajiv Gandhi,Lal Bahadur Shastri,Manmohan Singh,true,false,false,false,India,Politics,History,,Medium
+666388809d00580d4ad50c38,21,Who was the founder of the Maurya Dynasty?,Chandragupta Maurya,Ashoka,Bindusara,Harsha,true,false,false,false,India,History,FreedomMovement,,Easy
+666388809d00580d4ad50c39,22,When did the Battle of Plassey take place?,1757,1764,1857,1775,true,false,false,false,India,History,FreedomMovement,,Easy
+666388809d00580d4ad50c3a,23,Which Indian freedom fighter is known as the 'Iron Man of India'?,Sardar Vallabhbhai Patel,Bhagat Singh,Subhas Chandra Bose,Jawaharlal Nehru,true,false,false,false,India,History,FreedomMovement,,Easy
+666388809d00580d4ad50c3b,24,Who was the Mughal emperor during the First Battle of Panipat?,Babur,Akbar,Aurangzeb,Shah Jahan,true,false,false,false,India,History,,,Medium
+666388809d00580d4ad50c3c,25,What is the ancient name of Patna?,Pataliputra,Prayag,Vaishali,Hastinapur,true,false,false,false,India,History,,,Easy
+666388809d00580d4ad50c3d,26,Which Indian king fought against Alexander the Great?,King Porus,Ashoka,Chandragupta Maurya,Raja Raja Chola,true,false,false,false,India,History,,,Easy
+666388809d00580d4ad50c3e,27,Who was the last Viceroy of British India?,Lord Mountbatten,Lord Wavell,Lord Linlithgow,Lord Irwin,true,false,false,false,India,History,,,Medium
+666388809d00580d4ad50c3f,28,Who established the All India Muslim League?,Nawab Khwaja Salimullah,Sir Syed Ahmed Khan,Maulana Abul Kalam Azad,Muhammad Ali Jinnah,true,false,false,false,India,History,,,Medium
+666388809d00580d4ad50c40,29,Who led the Dandi March?,Mahatma Gandhi,Sardar Patel,Jawaharlal Nehru,Subhas Chandra Bose,true,false,false,false,India,History,,,Easy
+666388809d00580d4ad50c41,30,Which Indian ruler is known for his rock-cut caves and pillars?,Ashoka,Harsha,Kanishka,Samudragupta,true,false,false,false,India,History,,,Medium
+666388809d00580d4ad50c42,31,Who was the founder of the Sikh Empire?,Maharaja Ranjit Singh,Guru Gobind Singh,Guru Nanak,Guru Arjan Dev,true,false,false,false,India,History,,,Medium
+666388809d00580d4ad50c43,32,When was the Quit India Movement launched?,1942,1930,1947,1919,true,false,false,false,India,History,,,Easy
+666388809d00580d4ad50c44,33,Who was the first Indian woman to become the President of the Indian National Congress?,Annie Besant,Sarojini Naidu,Indira Gandhi,Sucheta Kriplani,true,false,false,false,India,History,,,Medium
+666388809d00580d4ad50c45,34,What is the original name of Swami Vivekananda?,Narendra Nath Datta,Subhas Chandra Bose,Bhimrao Ambedkar,Mohandas Karamchand Gandhi,true,false,false,false,India,History,,,Medium
+666388809d00580d4ad50c46,35,Who was the first Indian to win a Nobel Prize?,Rabindranath Tagore,C.V. Raman,Amartya Sen,Mother Teresa,true,false,false,false,India,History,,,Medium
+666388809d00580d4ad50c47,36,When did India adopt its Constitution?,26 January 1950,15 August 1947,1 January 1950,26 January 1949,true,false,false,false,India,History,,,Easy
+666388809d00580d4ad50c48,37,Who is known as the 'Father of Indian Renaissance'?,Raja Ram Mohan Roy,Bal Gangadhar Tilak,Dadabhai Naoroji,Rabindranath Tagore,true,false,false,false,India,History,,,Medium
+666388809d00580d4ad50c49,38,Who was the first Indian Governor-General of independent India?,C. Rajagopalachari,Dr. Rajendra Prasad,Jawaharlal Nehru,Sardar Patel,true,false,false,false,India,History,,,Hard
+666388809d00580d4ad50c4a,39,Who founded the Indian National Army (INA)?,Subhas Chandra Bose,Mahatma Gandhi,Bhagat Singh,Jawaharlal Nehru,true,false,false,false,India,History,,,Medium
+666388809d00580d4ad50c4b,40,Who is known as the 'Shahenshah' of Bollywood?,Amitabh Bachchan,Shah Rukh Khan,Salman Khan,Dharmendra,true,false,false,false,India,Bollywood,Movies,Cinema,Easy
+666388809d00580d4ad50c4c,41,"Which Bollywood film features the song ""Kabhi Kabhi Mere Dil Mein""?",Kabhi Kabhie,Silsila,Muqaddar Ka Sikandar,Deewaar,true,false,false,false,India,Bollywood,Movies,Cinema,Easy
+666388809d00580d4ad50c4d,42,"Who directed the epic film ""Mughal-e-Azam""?",K. Asif,Guru Dutt,Raj Kapoor,Mehboob Khan,true,false,false,false,India,Bollywood,Movies,Cinema,Medium
+666388809d00580d4ad50c4e,43,"Which actor played the character 'Vijay Dinanath Chauhan' in ""Agneepath""?",Amitabh Bachchan,Hrithik Roshan,Akshay Kumar,Sanjay Dutt,true,false,false,false,India,Bollywood,Movies,Cinema,Easy
+666388809d00580d4ad50c4f,44,"Who was the lead actress in the film ""Mother India""?",Nargis,Madhubala,Meena Kumari,Nutan,true,false,false,false,India,Bollywood,Movies,Cinema,Medium
+666388809d00580d4ad50c50,45,Which Bollywood movie is based on the real-life story of wrestler Mahavir Singh Phogat?,Dangal,Sultan,Mary Kom,Chak De! India,true,false,false,false,India,Bollywood,Movies,Cinema,Easy
+666388809d00580d4ad50c51,46,Who is known as the 'Tragedy King' of Bollywood?,Dilip Kumar,Dev Anand,Rajesh Khanna,Raj Kapoor,true,false,false,false,India,Bollywood,Movies,Cinema,Medium
+666388809d00580d4ad50c52,47,"Which film features the famous dialogue ""Mere paas maa hai""?",Deewaar,Sholay,Amar Akbar Anthony,Zanjeer,true,false,false,false,India,Bollywood,Movies,Cinema,Medium
+666388809d00580d4ad50c53,48,"Who is the music director duo behind the soundtrack of ""Sholay""?",R.D. Burman,Laxmikant-Pyarelal,Jatin-Lalit,Nadeem-Shravan,true,false,false,false,India,Bollywood,Movies,Cinema,Medium
+666388809d00580d4ad50c54,49,"Who played the character of Bajirao in the film ""Bajirao Mastani""?",Ranveer Singh,Shahid Kapoor,Ranbir Kapoor,Hrithik Roshan,true,false,false,false,India,Bollywood,Movies,Cinema,Medium
+666388809d00580d4ad50c55,50,Which Bollywood film won the Best Foreign Language Film at the Academy Awards?,None,Lagaan,Mother India,Salaam Bombay!,true,false,false,false,India,Bollywood,Movies,Cinema,Medium
+666388809d00580d4ad50c56,51,What was the first Bollywood film to be released in theaters?,Raja Harishchandra,Alam Ara,Kisan Kanya,Sant Tukaram,true,false,false,false,India,Bollywood,Movies,Cinema,Hard
+666388809d00580d4ad50c57,52,"Who choreographed the iconic song ""Ek Do Teen"" from ""Tezaab""?",Saroj Khan,Farah Khan,Vaibhavi Merchant,Remo D'Souza,true,false,false,false,India,Bollywood,Movies,Cinema,Medium
+666388809d00580d4ad50c58,53,"Which actress made her Bollywood debut with the film ""Parineeta""?",Vidya Balan,Priyanka Chopra,Deepika Padukone,Anushka Sharma,true,false,false,false,India,Bollywood,Movies,Cinema,Easy
+666388809d00580d4ad50c59,54,"Which Bollywood director is known for the films ""Dilwale Dulhania Le Jayenge"" and ""Kuch Kuch Hota Hai""?",Karan Johar,Aditya Chopra,Yash Chopra,Sanjay Leela Bhansali,true,false,false,false,India,Bollywood,Movies,Cinema,Easy
+666388809d00580d4ad50c5a,55,Which Bollywood actor is also known as the 'Khiladi'?,Akshay Kumar,Ajay Devgn,Suniel Shetty,John Abraham,true,false,false,false,India,Bollywood,Movies,Cinema,Easy
+666388809d00580d4ad50c5b,56,Which film features the character 'Gabbar Singh'?,Sholay,Deewaar,Don,Zanjeer,true,false,false,false,India,Bollywood,Movies,Cinema,Easy
+666388809d00580d4ad50c5c,57,Who was the first Indian actress to win an Oscar?,Bhanu Athaiya,Shabana Azmi,Priyanka Chopra,Smita Patil,true,false,false,false,India,Bollywood,Movies,Cinema,Medium
+666388809d00580d4ad50c5d,58,"Which Bollywood film is famous for the song ""Chaiyya Chaiyya""?",Dil Se,Taal,Rangeela,Dilwale,true,false,false,false,India,Bollywood,Movies,Cinema,Easy
+666388809d00580d4ad50c5e,59,"Who played the role of Munna Bhai in ""Munna Bhai M.B.B.S.""?",Sanjay Dutt,Salman Khan,Shah Rukh Khan,Aamir Khan,true,false,false,false,India,Bollywood,Movies,Cinema,Easy
+666388809d00580d4ad50c5f,60,Which is the highest-grossing Bollywood film of all time?,Dangal,Baahubali 2,PK,Sultan,true,false,false,false,India,Bollywood,Movies,Cinema,Medium
+666388809d00580d4ad50c60,61,Who is known as the 'King of Bollywood'?,Shah Rukh Khan,Salman Khan,Aamir Khan,Amitabh Bachchan,true,false,false,false,India,Bollywood,Movies,Cinema,Easy
+666388809d00580d4ad50c61,62,Which Bollywood actor is known as 'Mr. Perfectionist'?,Aamir Khan,Hrithik Roshan,Shah Rukh Khan,Ranbir Kapoor,true,false,false,false,India,Bollywood,Movies,Cinema,Easy
+666388809d00580d4ad50c62,63,Who won the first Filmfare Award for Best Actor?,Dilip Kumar,Rajesh Khanna,Rajkumar,Raj Kapoor,true,false,false,false,India,Bollywood,Movies,Cinema,Medium
+666388809d00580d4ad50c63,64,What is the longest river in India?,Ganges,Brahmaputra,Godavari,Yamuna,true,false,false,false,India,Geography,,,Medium
+666388809d00580d4ad50c64,65,Which is the largest state in India by area?,Rajasthan,Madhya Pradesh,Maharashtra,Uttar Pradesh,true,false,false,false,India,Geography,,,Hard
+666388809d00580d4ad50c65,66,Which Indian state has the longest coastline?,Gujarat,Tamil Nadu,Andhra Pradesh,Maharashtra,true,false,false,false,India,Geography,,,Hard
+666388809d00580d4ad50c66,67,What is the highest peak in India?,Kangchenjunga,Nanda Devi,K2,Kamet,true,false,false,false,India,Geography,,,Easy
+666388809d00580d4ad50c67,68,Which river is known as the 'Sorrow of Bihar'?,Kosi River,Ganga,Yamuna,Gandak,true,false,false,false,India,Geography,,,Medium
+666388809d00580d4ad50c68,69,What is the capital of the Andaman and Nicobar Islands?,Port Blair,Daman,Lakshadweep,Silvassa,true,false,false,false,India,Geography,,,Easy
+666388809d00580d4ad50c69,70,Which lake is the largest saltwater lake in India?,Chilika Lake,Sambhar Lake,Pulicat Lake,Loktak Lake,true,false,false,false,India,Geography,,,Medium
+666388809d00580d4ad50c6a,71,What is the southernmost point of India called?,Indira Point,Kanyakumari,Cape Comorin,Kovalam,true,false,false,false,India,Geography,,,Hard
+666388809d00580d4ad50c6b,72,Which state in India is known as the 'Land of Five Rivers'?,Punjab,Haryana,Himachal Pradesh,Uttar Pradesh,true,false,false,false,India,Geography,,,Medium
+666388809d00580d4ad50c6c,73,Which is the largest desert in India?,Thar Desert,White Desert,Rann of Kutch,Ladakh Desert,true,false,false,false,India,Geography,,,Medium
+666388809d00580d4ad50c6d,74,What is the name of the mountain range that runs parallel to the western coast of India?,Western Ghats,Eastern Ghats,Aravalli Range,Satpura Range,true,false,false,false,India,Geography,,,Medium
+666388809d00580d4ad50c6e,75,"Which river forms the largest river island in the world, Majuli?",Brahmaputra River,Ganga,Godavari,Krishna,true,false,false,false,India,Geography,,,Hard
+666388809d00580d4ad50c6f,76,What is the main mineral found in the mines of Jharkhand?,Coal,Iron,Bauxite,Copper,true,false,false,false,India,Geography,,,Hard
+666388809d00580d4ad50c70,77,Which plateau is known as the 'Deccan Plateau'?,Southern Plateau of India,Malwa Plateau,Chota Nagpur Plateau,Meghalaya Plateau,true,false,false,false,India,Geography,,,Easy
+666388809d00580d4ad50c71,78,What is the capital of Lakshadweep?,Kavaratti,Agatti,Minicoy,Amini,true,false,false,false,India,Geography,,,Easy
+666388809d00580d4ad50c72,79,Which river is considered the lifeline of Madhya Pradesh and Gujarat?,Narmada River,Tapti,Godavari,Krishna,true,false,false,false,India,Geography,,,Medium
+666388809d00580d4ad50c73,80,Which Indian state is famous for its backwaters?,Kerala,Tamil Nadu,Karnataka,Andhra Pradesh,true,false,false,false,India,Geography,,,Easy
+666388809d00580d4ad50c74,81,What is the name of the pass that connects Srinagar to Leh?,Zoji La Pass,Rohtang Pass,Nathu La Pass,Shipki La Pass,true,false,false,false,India,Geography,,,Hard
+666388809d00580d4ad50c75,82,Which Indian state is the leading producer of coffee?,Karnataka,Kerala,Tamil Nadu,Andhra Pradesh,true,false,false,false,India,Geography,,,Medium
+666388809d00580d4ad50c76,83,What is the smallest state in India by area?,Goa,Sikkim,Mizoram,Tripura,true,false,false,false,India,Geography,,,Easy
+666388809d00580d4ad50c77,84,Who was the first Indian woman to win an Olympic medal?,Karnam Malleswari,Mary Kom,P.T. Usha,Saina Nehwal,true,false,false,false,India,Sports,,,Medium
+666388809d00580d4ad50c78,85,Which Indian cricketer is known as the 'Master Blaster'?,Sachin Tendulkar,Virat Kohli,Sunil Gavaskar,Kapil Dev,true,false,false,false,India,Sports,,,Easy
+666388809d00580d4ad50c79,86,Who was the first Indian to win the All England Badminton Championship?,Prakash Padukone,Pullela Gopichand,Saina Nehwal,Kidambi Srikanth,true,false,false,false,India,Sports,,,Hard
+666388809d00580d4ad50c7a,87,In which sport did Dhyan Chand excel?,Hockey,Cricket,Football,Tennis,true,false,false,false,India,Sports,,,Easy
+666388809d00580d4ad50c7b,88,Who is the first Indian to win an individual gold medal at the Olympics?,Abhinav Bindra,Milkha Singh,Vijender Singh,Leander Paes,true,false,false,false,India,Sports,,,Hard
+666388809d00580d4ad50c7c,89,Which Indian state is known for the traditional sport of 'Kabaddi'?,Haryana,Punjab,Maharashtra,Tamil Nadu,true,false,false,false,India,Sports,,,Medium
+666388809d00580d4ad50c7d,90,Which Indian chess player became the World Chess Champion in 2000?,Viswanathan Anand,P. Harikrishna,Nihal Sarin,Koneru Humpy,true,false,false,false,India,Sports,,,Easy
+666388809d00580d4ad50c7e,91,Who is known as the 'Flying Sikh' of India?,Milkha Singh,P.T. Usha,Anju Bobby George,Bhaag Milkha,true,false,false,false,India,Sports,,,Easy
+666388809d00580d4ad50c7f,92,Who was the first Indian woman to become World No. 1 in badminton?,Saina Nehwal,P.V. Sindhu,Ashwini Ponnappa,Jwala Gutta,true,false,false,false,India,Sports,,,Easy
+666388809d00580d4ad50c80,93,Which sport does Sunil Chhetri play?,Football,Cricket,Tennis,Hockey,true,false,false,false,India,Sports,,,Easy
+666388809d00580d4ad50c81,94,Who is the first Indian gymnast to qualify for the Olympics?,Dipa Karmakar,Ashish Kumar,Aruna Reddy,Deepak Karmakar,true,false,false,false,India,Sports,,,Medium
+666388809d00580d4ad50c82,95,Which Indian shooter has won the most gold medals in international competitions?,Jaspal Rana,Abhinav Bindra,Gagan Narang,Rajyavardhan Rathore,true,false,false,false,India,Sports,,,Medium
+666388809d00580d4ad50c83,96,Who won India's first individual Olympic medal in wrestling?,K.D. Jadhav,Sushil Kumar,Yogeshwar Dutt,Bajrang Punia,true,false,false,false,India,Sports,,,Medium
+666388809d00580d4ad50c84,97,Which Indian cricketer holds the record for the fastest century in ODIs?,Virat Kohli,Rohit Sharma,Kapil Dev,Mahendra Singh Dhoni,true,false,false,false,India,Sports,,,Easy
+666388809d00580d4ad50c85,98,Who was the first Indian to win a Grand Slam tennis tournament?,Mahesh Bhupathi,Leander Paes,Sania Mirza,Rohan Bopanna,true,false,false,false,India,Sports,,,Medium
+666388809d00580d4ad50c86,99,Which Indian athlete won a gold medal in the 800m race at the 2018 Asian Games?,Manjit Singh,Hima Das,Jinson Johnson,Dutee Chand,true,false,false,false,India,Sports,,,Hard
+666388809d00580d4ad50c87,100,Which Indian footballer holds the record for the most international goals scored?,Sunil Chhetri,Bhaichung Bhutia,I.M. Vijayan,Gurpreet Singh Sandhu,true,false,false,false,India,Sports,,,Medium
+666388809d00580d4ad50c88,101,Who is the first Indian woman to win a silver medal at the Olympics?,P.V. Sindhu,Mary Kom,Sakshi Malik,Karnam Malleswari,true,false,false,false,India,Sports,,,Hard
+666388809d00580d4ad50c89,102,Which Indian tennis player is known as the 'Leaping Indian'?,Leander Paes,Mahesh Bhupathi,Vijay Amritraj,Ramesh Krishnan,true,false,false,false,India,Sports,,,Hard
+666388809d00580d4ad50c8a,103,Who is the only Indian athlete to win a World Championship gold medal in track and field?,Neeraj Chopra,Anju Bobby George,Milkha Singh,P.T. Usha,true,false,false,false,India,Sports,,,Medium
+666388809d00580d4ad50c8b,104,Which Indian company is the largest steel producer in the world?,Tata Steel,JSW Steel,SAIL,Bhushan Steel,true,false,false,false,India,Industry,Economy,,Easy
+666388809d00580d4ad50c8c,105,What is the primary industry of Infosys?,IT Services,Pharmaceutical,Automobile,FMCG,true,false,false,false,India,Industry,Economy,,Easy
+666388809d00580d4ad50c8d,106,Which Indian city is known as the 'Silicon Valley of India'?,Bangalore,Hyderabad,Chennai,Pune,true,false,false,false,India,Industry,Economy,,Easy
+666388809d00580d4ad50c8e,107,Who is the founder of Reliance Industries?,Dhirubhai Ambani,Mukesh Ambani,Anil Ambani,Ratan Tata,true,false,false,false,India,Industry,Economy,,Easy
+666388809d00580d4ad50c8f,108,Which company owns the 'Royal Enfield' brand?,Eicher Motors,Bajaj Auto,TVS Motors,Hero MotoCorp,true,false,false,false,India,Industry,Economy,,Hard
+666388809d00580d4ad50c90,109,Which is the largest IT services company in India by revenue?,Tata Consultancy Services (TCS),Wipro,Infosys,HCL Technologies,true,false,false,false,India,Industry,Economy,,Medium
+666388809d00580d4ad50c91,110,Who is the CEO of HCL Technologies as of 2024?,C. Vijayakumar,Shiv Nadar,Arvind Krishna,Sundar Pichai,true,false,false,false,India,Industry,Economy,,Hard
+666388809d00580d4ad50c92,111,Which Indian company is the leading manufacturer of wind turbines?,Suzlon,BHEL,L&T,Adani Green Energy,true,false,false,false,India,Industry,Economy,,Hard
+666388809d00580d4ad50c93,112,What is the main business of Hindustan Unilever Limited (HUL)?,FMCG,Textiles,IT Services,Real Estate,true,false,false,false,India,Industry,Economy,,Hard
+666388809d00580d4ad50c94,113,Which Indian conglomerate owns Jaguar and Land Rover?,Tata Group,Mahindra & Mahindra,Bajaj Group,Reliance Group,true,false,false,false,India,Industry,Economy,,Medium
+666388809d00580d4ad50c95,114,Which company is the largest producer of cement in India?,UltraTech Cement,Ambuja Cement,ACC Cement,Shree Cement,true,false,false,false,India,Industry,Economy,,Hard
+666388809d00580d4ad50c96,115,Which Indian company is the leading producer of pharmaceutical products?,Sun Pharmaceutical,Cipla,Dr. Reddy's Laboratories,Lupin,true,false,false,false,India,Industry,Economy,,Hard
+666388809d00580d4ad50c97,116,Which Indian company is the largest exporter of software?,Tata Consultancy Services (TCS),Infosys,Wipro,HCL Technologies,true,false,false,false,India,Industry,Economy,,Medium
+666388809d00580d4ad50c98,117,What is the flagship airline of India?,Air India,IndiGo,Vistara,SpiceJet,true,false,false,false,India,Industry,Economy,,Easy
+666388809d00580d4ad50c99,118,Which Indian company is the largest private sector coal producer?,Adani Enterprises,Coal India,Reliance Power,Vedanta,true,false,false,false,India,Industry,Economy,,Medium
+666388809d00580d4ad50c9a,119,Which Indian company is known for its luxury hotels and hospitality?,The Taj Group,Oberoi Hotels,ITC Hotels,Marriott International,true,false,false,false,India,Industry,Economy,,Medium
+666388809d00580d4ad50c9b,120,Which Indian company is the largest mobile network operator by subscribers?,Reliance Jio,Airtel,Vodafone Idea,BSNL,true,false,false,false,India,Industry,Economy,,Easy
+666388809d00580d4ad50c9c,121,Who is the founder of the software giant Wipro?,Azim Premji,Narayana Murthy,Shiv Nadar,Nandan Nilekani,true,false,false,false,India,Industry,Economy,,Easy
+666388809d00580d4ad50c9d,122,Which Indian company is the largest two-wheeler manufacturer?,Hero MotoCorp,Bajaj Auto,TVS Motors,Royal Enfield,true,false,false,false,India,Industry,Economy,,Easy
+666388809d00580d4ad50c9e,123,Which Indian company is known for its financial and insurance services?,ICICI Bank,State Bank of India,HDFC Bank,Kotak Mahindra Bank,true,false,false,false,India,Industry,Economy,,Easy
+666388809d00580d4ad50c9f,124,Who is known as the 'Nightingale of India'?,Lata Mangeshkar,Asha Bhosle,Shreya Ghoshal,Sunidhi Chauhan,true,false,false,false,India,Music,,,Easy
+666388809d00580d4ad50ca0,125,Which musical instrument is Pandit Ravi Shankar famous for playing?,Sitar,Tabla,Flute,Violin,true,false,false,false,India,Music,,,Easy
+666388809d00580d4ad50ca1,126,"Who composed the Indian national anthem, ""Jana Gana Mana""?",Rabindranath Tagore,Bankim Chandra Chatterjee,A.R. Rahman,C. Ramachandra,true,false,false,false,India,Music,,,Easy
+666388809d00580d4ad50ca2,127,What is the classical dance form of Tamil Nadu?,Bharatanatyam,Kathak,Kuchipudi,Odissi,true,false,false,false,India,Music,,,Medium
+666388809d00580d4ad50ca3,128,Who is known as the 'Mozart of Madras'?,A.R. Rahman,Ilaiyaraaja,M.S. Viswanathan,R.D. Burman,true,false,false,false,India,Music,,,Easy
+666388809d00580d4ad50ca4,129,"Which Indian musician is known for the song ""Mile Sur Mera Tumhara""?",Bhimsen Joshi,Jagjit Singh,Hariharan,L. Subramaniam,true,false,false,false,India,Music,,,Medium
+666388809d00580d4ad50ca5,130,Who was the first Indian to receive the Grammy Award?,Pandit Ravi Shankar,Zakir Hussain,A.R. Rahman,Anoushka Shankar,true,false,false,false,India,Music,,,Hard
+666388809d00580d4ad50ca6,131,Which famous Indian playback singer was awarded the Bharat Ratna in 2001?,Lata Mangeshkar,Kishore Kumar,Mukesh,Manna Dey,true,false,false,false,India,Music,,,Medium
+666388809d00580d4ad50ca7,132,What is the traditional percussion instrument used in Carnatic music?,Mridangam,Tabla,Dholak,Pakhawaj,true,false,false,false,India,Music,,,Hard
+666388809d00580d4ad50ca8,133,Who is known as the 'Queen of Ghazals'?,Begum Akhtar,Farida Khanum,Noor Jehan,Suraiya,true,false,false,false,India,Music,,,Hard
+666388809d00580d4ad50ca9,134,Which Bollywood composer duo were known as 'Shankar-Jaikishan'?,Shankar-Jaikishan,Laxmikant-Pyarelal,Kalyanji-Anandji,Jatin-Lalit,true,false,false,false,India,Music,,,Easy
+666388809d00580d4ad50caa,135,"Who composed the music for the film ""Slumdog Millionaire""?",A.R. Rahman,Vishal-Shekhar,Pritam,Amit Trivedi,true,false,false,false,India,Music,,,Easy
+666388809d00580d4ad50cab,136,Which Indian classical vocalist is known as the 'Emperor of Music'?,M.S. Subbulakshmi,T.M. Krishna,Balamuralikrishna,Bhimsen Joshi,true,false,false,false,India,Music,,,Medium
+666388809d00580d4ad50cac,137,"Who sang the famous Bollywood song ""Kabhi Kabhi Mere Dil Mein""?",Mukesh,Kishore Kumar,Mohammad Rafi,Hemant Kumar,true,false,false,false,India,Music,,,Easy
+666388809d00580d4ad50cad,138,"Which Indian state is renowned for its folk music and dance form, Garba?",Gujarat,Maharashtra,Rajasthan,Punjab,true,false,false,false,India,Music,,,Easy
+666388809d00580d4ad50cae,139,Who is known as the 'Queen of Melody' in Indian playback singing?,Lata Mangeshkar,Asha Bhosle,Shreya Ghoshal,Alka Yagnik,true,false,false,false,India,Music,,,Easy
+666388809d00580d4ad50caf,140,Which Indian musical instrument is Bismillah Khan associated with?,Shehnai,Tabla,Sitar,Sarangi,true,false,false,false,India,Music,,,Medium
+666388809d00580d4ad50cb0,141,Which Raga is often played in the early morning?,Bhairav,Yaman,Hamsadhwani,Darbari Kanada,true,false,false,false,India,Music,,,Medium
+666388809d00580d4ad50cb1,142,Who was the first Indian music director to win an Oscar?,A.R. Rahman,Ravi Shankar,Satyajit Ray,Zubin Mehta,true,false,false,false,India,Music,,,Medium
+666388809d00580d4ad50cb2,143,Who is known as the 'Pandit' of Tabla?,Zakir Hussain,Alla Rakha,Anindo Chatterjee,Swapan Chaudhuri,true,false,false,false,India,Music,,,Medium
+666388809d00580d4ad50cb3,144,Who is known as the 'Missile Man of India'?,A.P.J. Abdul Kalam,Homi Bhabha,Vikram Sarabhai,Satish Dhawan,true,false,false,false,India,FamousPersonalities,History,,Easy
+666388809d00580d4ad50cb4,145,Who was the first woman to become the Prime Minister of India?,Indira Gandhi,Sarojini Naidu,Pratibha Patil,Sucheta Kriplani,true,false,false,false,India,FamousPersonalities,History,,Easy
+666388809d00580d4ad50cb5,146,Which Indian industrialist founded the Tata Group?,Jamshedji Tata,Dhirubhai Ambani,Ratan Tata,Ghanshyam Das Birla,true,false,false,false,India,FamousPersonalities,History,,Easy
+666388809d00580d4ad50cb6,147,Who is known as the 'Father of the Indian Nation'?,Mahatma Gandhi,Jawaharlal Nehru,Sardar Patel,B.R. Ambedkar,true,false,false,false,India,FamousPersonalities,History,,Easy
+666388809d00580d4ad50cb7,148,Who was the first Indian to win a Nobel Prize?,Rabindranath Tagore,C.V. Raman,Mother Teresa,Amartya Sen,true,false,false,false,India,FamousPersonalities,History,,Easy
+666388809d00580d4ad50cb8,149,Who is the founder of the Indian Space Research Organisation (ISRO)?,Vikram Sarabhai,Satish Dhawan,K. Sivan,A.P.J. Abdul Kalam,true,false,false,false,India,FamousPersonalities,History,,Easy
+666388809d00580d4ad50cb9,150,"Who is the co-founder of Infosys, one of India's largest IT companies?",Narayana Murthy,Azim Premji,Nandan Nilekani,Shiv Nadar,true,false,false,false,India,FamousPersonalities,History,,Easy
+666388809d00580d4ad50cba,151,Which Indian cricketer is known as the 'Little Master'?,Sunil Gavaskar,Sachin Tendulkar,Rahul Dravid,Sourav Ganguly,true,false,false,false,India,FamousPersonalities,History,,Easy
+666388809d00580d4ad50cbb,152,Who is known as the 'Iron Lady of Manipur'?,Irom Sharmila,Mary Kom,Pramila Devi,Indira Gandhi,true,false,false,false,India,FamousPersonalities,History,,Medium
+666388809d00580d4ad50cbc,153,Who was the first Indian woman to climb Mount Everest?,Bachendri Pal,Arunima Sinha,Santosh Yadav,Premlata Agarwal,true,false,false,false,India,FamousPersonalities,History,,Medium
+666388809d00580d4ad50cbd,154,Who is the first Indian actor to win an Academy Award (Oscar)?,Bhanu Athaiya,Satyajit Ray,A.R. Rahman,Resul Pookutty,true,false,false,false,India,FamousPersonalities,History,,Hard
+666388809d00580d4ad50cbe,155,Who is the author of the famous book 'The God of Small Things'?,Arundhati Roy,Jhumpa Lahiri,Anita Desai,Vikram Seth,true,false,false,false,India,FamousPersonalities,History,,Medium
+666388809d00580d4ad50cbf,156,Who is known as the 'Tiger of Mysore'?,Tipu Sultan,Haider Ali,Krishnadevaraya,Shivaji Maharaj,true,false,false,false,India,FamousPersonalities,History,,Easy
+666388809d00580d4ad50cc0,157,Who is the founder of the 'Art of Living' foundation?,Sri Sri Ravi Shankar,Baba Ramdev,Osho,Sadhguru,true,false,false,false,India,FamousPersonalities,History,,Easy
+666388809d00580d4ad50cc1,158,Who is the first Indian to receive a Nobel Prize in Physics?,C.V. Raman,S.N. Bose,Homi Bhabha,Meghnad Saha,true,false,false,false,India,FamousPersonalities,History,,Medium
+666388809d00580d4ad50cc2,159,"Who is the chairman of the Adani Group, one of India's largest conglomerates?",Gautam Adani,Mukesh Ambani,Ratan Tata,Kumar Mangalam Birla,true,false,false,false,India,FamousPersonalities,History,,Easy
+666388809d00580d4ad50cc3,160,Who was the first woman President of India?,Pratibha Patil,Indira Gandhi,Sarojini Naidu,Sucheta Kriplani,true,false,false,false,India,FamousPersonalities,History,,Easy
+666388809d00580d4ad50cc4,161,Who is known as the 'Father of Indian Cinema'?,Dadasaheb Phalke,Raj Kapoor,Satyajit Ray,Guru Dutt,true,false,false,false,India,FamousPersonalities,History,,Medium
+666388809d00580d4ad50cc5,162,Who is the first Indian to travel in space?,Rakesh Sharma,Kalpana Chawla,Sunita Williams,Radhakrishnan,true,false,false,false,India,FamousPersonalities,History,,Medium
+666388809d00580d4ad50cc6,163,"Which Indian city is known as the ""City of Lakes""?",Udaipur,Nainital,Bhopal,Srinagar,true,false,false,false,India,Tourism,Geography,,Medium
+666388809d00580d4ad50cc7,164,Where is the famous Sun Temple located in India?,Konark,Khajuraho,Hampi,Mahabalipuram,true,false,false,false,India,Tourism,Geography,,Easy
+666388809d00580d4ad50cc8,165,What is the main attraction of Rann of Kutch in Gujarat?,White Desert,Sand Dunes,Tea Gardens,Wildlife Sanctuaries,true,false,false,false,India,Tourism,Geography,,Easy
+666388809d00580d4ad50cc9,166,Where is the Valley of Flowers National Park located?,Uttarakhand,Himachal Pradesh,Jammu & Kashmir,Sikkim,true,false,false,false,India,Tourism,Geography,,Medium
+666388809d00580d4ad50cca,167,Which city is famous for its Golden Temple?,Amritsar,Varanasi,Jaipur,Ahmedabad,true,false,false,false,India,Tourism,Geography,,Easy
+666388809d00580d4ad50ccb,168,What is the capital city of the Union Territory of Andaman and Nicobar Islands?,Port Blair,Daman,Lakshadweep,Silvassa,true,false,false,false,India,Tourism,Geography,,Easy
+666388809d00580d4ad50ccc,169,Which Indian state is known for the festival of Bihu?,Assam,West Bengal,Odisha,Bihar,true,false,false,false,India,Tourism,Geography,,Medium
+666388809d00580d4ad50ccd,170,Which place in India is famous for its tea gardens?,Darjeeling,Ooty,Munnar,Coorg,true,false,false,false,India,Tourism,Geography,,Medium
+666388809d00580d4ad50cce,171,Where is the UNESCO World Heritage site 'Ellora Caves' located?,Maharashtra,Karnataka,Madhya Pradesh,Andhra Pradesh,true,false,false,false,India,Tourism,Geography,,Easy
+666388809d00580d4ad50ccf,172,"Which Indian city is known as the ""Pink City""?",Jaipur,Jodhpur,Udaipur,Bikaner,true,false,false,false,India,Tourism,Geography,,Easy
+666388809d00580d4ad50cd0,173,Which Indian state is home to the Sundarbans mangrove forest?,West Bengal,Odisha,Andhra Pradesh,Tamil Nadu,true,false,false,false,India,Tourism,Geography,,Easy
+666388809d00580d4ad50cd1,174,What is the primary attraction of Hampi in Karnataka?,Ancient Ruins,Beaches,Backwaters,Wildlife,true,false,false,false,India,Tourism,Geography,,Easy
+666388809d00580d4ad50cd2,175,"Which Indian state is known as the ""Land of the Rising Sun""?",Arunachal Pradesh,Assam,Manipur,Sikkim,true,false,false,false,India,Tourism,Geography,,Medium
+666388809d00580d4ad50cd3,176,Which river flows through the city of Varanasi?,Ganges,Yamuna,Narmada,Godavari,true,false,false,false,India,Tourism,Geography,,Easy
+666388809d00580d4ad50cd4,177,Where is the Gateway of India located?,Mumbai,New Delhi,Kolkata,Chennai,true,false,false,false,India,Tourism,Geography,,Easy
+666388809d00580d4ad50cd5,178,Which fort in India is famous for the Palace of Mirrors?,Amber Fort,Mehrangarh Fort,Golconda Fort,Agra Fort,true,false,false,false,India,Tourism,Geography,,Medium
+666388809d00580d4ad50cd6,179,Which Indian state is famous for the Hornbill Festival?,Nagaland,Meghalaya,Mizoram,Tripura,true,false,false,false,India,Tourism,Geography,,Medium
+666388809d00580d4ad50cd7,180,"Who is known as the ""Father of the Indian Constitution""?",Dr. B.R. Ambedkar,Mahatma Gandhi,Jawaharlal Nehru,Sardar Patel,true,false,false,false,India,Civics,,,Easy
+666388809d00580d4ad50cd8,181,What is the maximum strength of the Lok Sabha?,552,545,550,555,true,false,false,false,India,Civics,,,Easy
+666388809d00580d4ad50cd9,182,Who appoints the Chief Justice of India?,The President,The Prime Minister,The Parliament,The Law Minister,true,false,false,false,India,Civics,,,Medium
+666388809d00580d4ad50cda,183,Which Article of the Indian Constitution deals with the Right to Equality?,Article 14,Article 21,Article 19,Article 32,true,false,false,false,India,Civics,,,Medium
+666388809d00580d4ad50cdb,184,What is the term length for a member of the Rajya Sabha?,6 years,5 years,4 years,2 years,true,false,false,false,India,Civics,,,Medium
+666388809d00580d4ad50cdc,185,Which constitutional body is responsible for the conduct of elections in India?,Election Commission of India,Supreme Court of India,Parliament,Union Public Service Commission,true,false,false,false,India,Civics,,,Easy
+666388809d00580d4ad50cdd,186,What is the minimum age requirement to become a member of the Lok Sabha?,25 years,30 years,35 years,21 years,true,false,false,false,India,Civics,,,Medium
+666388809d00580d4ad50cde,187,Who was the first female Speaker of the Lok Sabha?,Meira Kumar,Sumitra Mahajan,Sarojini Naidu,Indira Gandhi,true,false,false,false,India,Civics,,,Hard
+666388809d00580d4ad50cdf,188,What is the primary function of the Judiciary in India?,Interpret and uphold the Constitution,Make laws,Enforce laws,Execute policies,true,false,false,false,India,Civics,,,Medium
+666388809d00580d4ad50ce0,189,Who is the head of the executive branch in India?,The President,The Prime Minister,The Chief Justice,The Governor,true,false,false,false,India,Civics,,,Easy
+666388809d00580d4ad50ce1,190,Which body is responsible for approving the budget in India?,Parliament,Supreme Court,President,Election Commission,true,false,false,false,India,Civics,,,Medium
+666388809d00580d4ad50ce2,191,Which fundamental right is guaranteed under Article 21 of the Indian Constitution?,Right to Life,Right to Freedom,Right to Equality,Right to Education,true,false,false,false,India,Civics,,,Medium
+666388809d00580d4ad50ce3,192,How many members can the President nominate to the Rajya Sabha?,12,10,14,8,true,false,false,false,India,Civics,,,Hard
+666388809d00580d4ad50ce4,193,Who presides over the joint sitting of the Parliament of India?,The Speaker of the Lok Sabha,The President,The Prime Minister,The Vice-President,true,false,false,false,India,Civics,,,Hard
+666388809d00580d4ad50ce5,194,Which body advises the President on the appointment of judges to the Supreme Court?,Collegium,Cabinet,Parliament,Election Commission,true,false,false,false,India,Civics,,,Hard
+666388809d00580d4ad50ce6,195,What is the role of the Finance Commission in India?,Recommend financial distribution between the Center and States,Audit government expenditures,Plan economic policies,Conduct monetary policy,true,false,false,false,India,Civics,,,Medium
+666388809d00580d4ad50ce7,196,Who is the Supreme Commander of the Armed Forces in India?,The President,The Prime Minister,The Defense Minister,The Chief of Defense Staff,true,false,false,false,India,Civics,,,Medium
+666388809d00580d4ad50ce8,197,What is the tenure of the Vice President of India?,5 years,4 years,6 years,7 years,true,false,false,false,India,Civics,,,Easy
+666388809d00580d4ad50ce9,198,Which article in the Indian Constitution provides for the imposition of President's rule in a state?,Article 356,Article 352,Article 360,Article 370,true,false,false,false,India,Civics,,,Hard
+666388809d00580d4ad50cea,199,What is the main purpose of the Public Accounts Committee in the Parliament?,Examine government expenditure,Formulate government policies,Draft laws,Handle judiciary matters,true,false,false,false,India,Civics,,,Hard
+666388809d00580d4ad50ceb,200,Who is the current Speaker of the House of Representatives (as of 2024)?,Mike Johnson,Kevin McCarthy,Nancy Pelosi,Hakeem Jeffries,true,false,false,false,USA,Politics,,,Medium
+666388809d00580d4ad50cec,201,Which amendment to the U.S. Constitution gives citizens the right to bear arms?,Second Amendment,First Amendment,Third Amendment,Fourth Amendment,true,false,false,false,USA,Politics,,,Easy
+666388809d00580d4ad50ced,202,Who has the power to veto bills passed by Congress?,The President,The Vice President,The Speaker of the House,The Chief Justice,true,false,false,false,USA,Politics,,,Medium
+666388809d00580d4ad50cee,203,Which U.S. state has the most electoral votes in presidential elections?,California,Texas,Florida,New York,true,false,false,false,USA,Politics,,,Hard
+666388809d00580d4ad50cef,204,Who is the current Senate Majority Leader (as of 2024)?,Chuck Schumer,Mitch McConnell,Nancy Pelosi,Kevin McCarthy,true,false,false,false,USA,Politics,,,Medium
+666388809d00580d4ad50cf0,205,Who was the first U.S. President to be impeached?,Andrew Johnson,Richard Nixon,Bill Clinton,Donald Trump,true,false,false,false,USA,Politics,,,Hard
+666388809d00580d4ad50cf1,206,How many justices are on the U.S. Supreme Court?,Nine,Seven,Eleven,Eight,true,false,false,false,USA,Politics,,,Easy
+666388809d00580d4ad50cf2,207,What is the minimum age requirement to be President of the United States?,35 years,30 years,40 years,45 years,true,false,false,false,USA,Politics,,,Medium
+666388809d00580d4ad50cf3,208,Which landmark Supreme Court case legalized same-sex marriage in the United States?,Obergefell v. Hodges,Roe v. Wade,Brown v. Board of Education,Plessy v. Ferguson,true,false,false,false,USA,Politics,,,Hard
+666388809d00580d4ad50cf4,209,Who is the current Secretary of State (as of 2024)?,Antony Blinken,Mike Pompeo,John Kerry,Hillary Clinton,true,false,false,false,USA,Politics,,,Medium
+666388809d00580d4ad50cf5,210,What is the name of the first African American woman to be elected to the U.S. Senate?,Carol Moseley Braun,Kamala Harris,Shirley Chisholm,Condoleezza Rice,true,false,false,false,USA,Politics,,,Hard
+666388809d00580d4ad50cf6,211,Which constitutional amendment abolished slavery in the United States?,Thirteenth Amendment,Fourteenth Amendment,Fifteenth Amendment,Twelfth Amendment,true,false,false,false,USA,Politics,,,Medium
+666388809d00580d4ad50cf7,212,What is the term length for a U.S. Senator?,Six years,Four years,Two years,Eight years,true,false,false,false,USA,Politics,,,Easy
+666388809d00580d4ad50cf8,213,Who appoints the Justices of the Supreme Court?,The President,The Senate,The Chief Justice,The Vice President,true,false,false,false,USA,Politics,,,Medium
+666388809d00580d4ad50cf9,214,Which U.S. President served the shortest term?,William Henry Harrison,James Garfield,Zachary Taylor,Warren G. Harding,true,false,false,false,USA,Politics,,,Hard
+666388809d00580d4ad50cfa,215,What is the primary role of the Federal Reserve?,Regulate monetary policy,Collect taxes,Enforce federal laws,Conduct elections,true,false,false,false,USA,Politics,,,Medium
+666388809d00580d4ad50cfb,216,Which act was signed into law to combat climate change during President Biden's administration?,Inflation Reduction Act,Green New Deal,Paris Agreement,Clean Power Plan,true,false,false,false,USA,Politics,,,Hard
+666388809d00580d4ad50cfc,217,Who is the first woman to serve as Vice President of the United States?,Kamala Harris,Hillary Clinton,Sarah Palin,Geraldine Ferraro,true,false,false,false,USA,Politics,,,Medium
+666388809d00580d4ad50cfd,218,Which amendment to the U.S. Constitution provides for the direct election of Senators?,Seventeenth Amendment,Sixteenth Amendment,Fifteenth Amendment,Nineteenth Amendment,true,false,false,false,USA,Politics,,,Hard
+666388809d00580d4ad50cfe,219,What is the highest court in the United States?,The Supreme Court,The Court of Appeals,The Federal Court,The District Court,true,false,false,false,USA,Politics,,,Easy
+666388809d00580d4ad50cff,220,Who was the first President of the United States?,George Washington,Thomas Jefferson,John Adams,James Madison,true,false,false,false,USA,History,,,Easy
+666388809d00580d4ad50d00,221,Which document declared the American colonies' independence from Britain?,The Declaration of Independence,The Constitution,The Bill of Rights,The Articles of Confederation,true,false,false,false,USA,History,,,Medium
+666388809d00580d4ad50d01,222,"What year did the U.S. stock market crash, leading to the Great Depression?",1929,1933,1919,1941,true,false,false,false,USA,History,,,Hard
+666388809d00580d4ad50d02,223,Who was the President of the Confederate States during the American Civil War?,Jefferson Davis,Abraham Lincoln,Ulysses S. Grant,Robert E. Lee,true,false,false,false,USA,History,,,Medium
+666388809d00580d4ad50d03,224,What was the primary cause of the American Civil War?,Slavery,Economic differences,State rights,Territorial expansion,true,false,false,false,USA,History,,,Easy
+666388809d00580d4ad50d04,225,Who was the U.S. President during the Louisiana Purchase?,Thomas Jefferson,James Madison,John Adams,Andrew Jackson,true,false,false,false,USA,History,,,Hard
+666388809d00580d4ad50d05,226,Which U.S. state was the last to join the Union?,Hawaii,Alaska,Arizona,New Mexico,true,false,false,false,USA,History,,,Medium
+666388809d00580d4ad50d06,227,What was the first capital of the United States?,Philadelphia,New York,Boston,"Washington, D.C.",true,false,false,false,USA,History,,,Easy
+666388809d00580d4ad50d07,228,Who was the only U.S. President to resign from office?,Richard Nixon,Bill Clinton,Andrew Johnson,Gerald Ford,true,false,false,false,USA,History,,,Hard
+666388809d00580d4ad50d08,229,Which President issued the Emancipation Proclamation?,Abraham Lincoln,Andrew Johnson,Ulysses S. Grant,James Buchanan,true,false,false,false,USA,History,,,Medium
+666388809d00580d4ad50d09,230,What was the first permanent English colony in America?,Jamestown,Plymouth,Roanoke,Charleston,true,false,false,false,USA,History,,,Hard
+666388809d00580d4ad50d0a,231,"Who was the leader of the civil rights movement known for his ""I Have a Dream"" speech?",Martin Luther King Jr.,Malcolm X,Rosa Parks,Thurgood Marshall,true,false,false,false,USA,History,,,Medium
+666388809d00580d4ad50d0b,232,Which U.S. President signed the Social Security Act into law?,Franklin D. Roosevelt,Harry S. Truman,Herbert Hoover,Dwight D. Eisenhower,true,false,false,false,USA,History,,,Hard
+666388809d00580d4ad50d0c,233,What major event brought the United States into World War II?,The attack on Pearl Harbor,The fall of France,The invasion of Poland,The sinking of the Lusitania,true,false,false,false,USA,History,,,Medium
+666388809d00580d4ad50d0d,234,What was the primary goal of the Lewis and Clark Expedition?,Explore and map the western territory,Establish trade with Native Americans,Find a route to the Pacific Ocean,Collect scientific data,true,false,false,false,USA,History,,,Easy
+666388809d00580d4ad50d0e,235,Who was the author of the Declaration of Independence?,Thomas Jefferson,Benjamin Franklin,John Adams,James Madison,true,false,false,false,USA,History,,,Medium
+666388809d00580d4ad50d0f,236,In which year was the U.S. Constitution ratified?,1788,1776,1783,1791,true,false,false,false,USA,History,,,Hard
+666388809d00580d4ad50d10,237,Who was the first Secretary of the Treasury of the United States?,Alexander Hamilton,Thomas Jefferson,John Jay,James Monroe,true,false,false,false,USA,History,,,Medium
+666388809d00580d4ad50d11,238,What landmark Supreme Court case established judicial review in the United States?,Marbury v. Madison,McCulloch v. Maryland,Gibbons v. Ogden,Dred Scott v. Sandford,true,false,false,false,USA,History,,,Hard
+666388809d00580d4ad50d12,239,Who was the leader of the American Revolutionary Army?,George Washington,Benedict Arnold,Thomas Paine,John Hancock,true,false,false,false,USA,History,,,Easy
+666388809d00580d4ad50d13,240,"Who directed the epic science fiction film ""2001: A Space Odyssey""?",Stanley Kubrick,Ridley Scott,Steven Spielberg,George Lucas,true,false,false,false,USA,Hollywood,,,Medium
+666388809d00580d4ad50d14,241,"Which actor played the character Jack Dawson in ""Titanic""?",Leonardo DiCaprio,Brad Pitt,Johnny Depp,Tom Cruise,true,false,false,false,USA,Hollywood,,,Easy
+666388809d00580d4ad50d15,242,Which film won the first Academy Award for Best Picture in 1929?,Wings,The Jazz Singer,Sunrise,The Broadway Melody,true,false,false,false,USA,Hollywood,,,Hard
+666388809d00580d4ad50d16,243,"Who is known as the ""Master of Suspense"" in Hollywood?",Alfred Hitchcock,Steven Spielberg,Martin Scorsese,Quentin Tarantino,true,false,false,false,USA,Hollywood,,,Medium
+666388809d00580d4ad50d17,244,"Which actress won the Academy Award for Best Actress for her role in ""The Iron Lady""?",Meryl Streep,Julia Roberts,Nicole Kidman,Cate Blanchett,true,false,false,false,USA,Hollywood,,,Medium
+666388809d00580d4ad50d18,245,Which movie marked the first appearance of the character Indiana Jones?,Raiders of the Lost Ark,Temple of Doom,The Last Crusade,Kingdom of the Crystal Skull,true,false,false,false,USA,Hollywood,,,Hard
+666388809d00580d4ad50d19,246,Who played the character of Tony Stark in the Marvel Cinematic Universe?,Robert Downey Jr.,Chris Evans,Mark Ruffalo,Chris Hemsworth,true,false,false,false,USA,Hollywood,,,Easy
+666388809d00580d4ad50d1a,247,"What is the name of the fictional African nation in ""Black Panther""?",Wakanda,Zamunda,Narnia,Gondor,true,false,false,false,USA,Hollywood,,,Medium
+666388809d00580d4ad50d1b,248,"Which director is known for the ""Dollars Trilogy"" of Spaghetti Westerns?",Sergio Leone,John Ford,Sam Peckinpah,Clint Eastwood,true,false,false,false,USA,Hollywood,,,Hard
+666388809d00580d4ad50d1c,249,"Who composed the iconic score for ""Star Wars""?",John Williams,Hans Zimmer,Ennio Morricone,James Horner,true,false,false,false,USA,Hollywood,,,Medium
+666388809d00580d4ad50d1d,250,"Which actress starred as Ripley in the ""Alien"" film series?",Sigourney Weaver,Linda Hamilton,Jodie Foster,Jamie Lee Curtis,true,false,false,false,USA,Hollywood,,,Hard
+666388809d00580d4ad50d1e,251,"Which film features the line ""Here's looking at you, kid""?",Casablanca,Gone with the Wind,The Godfather,Citizen Kane,true,false,false,false,USA,Hollywood,,,Medium
+666388809d00580d4ad50d1f,252,What is the highest-grossing film of all time (as of 2024)?,Avatar,Avengers: Endgame,Titanic,Star Wars: The Force Awakens,true,false,false,false,USA,Hollywood,,,Easy
+666388809d00580d4ad50d20,253,"Who played the lead role in the film ""Forrest Gump""?",Tom Hanks,Robin Williams,Kevin Costner,Harrison Ford,true,false,false,false,USA,Hollywood,,,Medium
+666388809d00580d4ad50d21,254,"Which director is known for the films ""Pulp Fiction"" and ""Kill Bill""?",Quentin Tarantino,Guy Ritchie,David Fincher,Paul Thomas Anderson,true,false,false,false,USA,Hollywood,,,Hard
+666388809d00580d4ad50d22,255,"What was the name of the computer in ""2001: A Space Odyssey""?",HAL 9000,Skynet,JARVIS,GLaDOS,true,false,false,false,USA,Hollywood,,,Medium
+666388809d00580d4ad50d23,256,"Who played Neo in the ""Matrix"" film series?",Keanu Reeves,Matt Damon,Johnny Depp,Christian Bale,true,false,false,false,USA,Hollywood,,,Easy
+666388809d00580d4ad50d24,257,"Which film is known for the line ""I am big! It's the pictures that got small.""?",Sunset Boulevard,Singin' in the Rain,All About Eve,Rebel Without a Cause,true,false,false,false,USA,Hollywood,,,Hard
+666388809d00580d4ad50d25,258,"Which actor voiced Darth Vader in the original ""Star Wars"" trilogy?",James Earl Jones,Peter Cushing,Alec Guinness,David Prowse,true,false,false,false,USA,Hollywood,,,Medium
+666388809d00580d4ad50d26,259,"Who directed the film ""Schindler's List""?",Steven Spielberg,Roman Polanski,Francis Ford Coppola,Oliver Stone,true,false,false,false,USA,Hollywood,,,Hard
+666388809d00580d4ad50d27,260,What is the capital of the United States?,"Washington, D.C.",New York,Los Angeles,Chicago,true,false,false,false,USA,Geography,,,Easy
+666388809d00580d4ad50d28,261,"Which U.S. state is known as the ""Sunshine State""?",Florida,California,Texas,Arizona,true,false,false,false,USA,Geography,,,Medium
+666388809d00580d4ad50d29,262,What is the largest lake in the United States by surface area?,Lake Superior,Lake Michigan,Lake Huron,Lake Erie,true,false,false,false,USA,Geography,,,Hard
+666388809d00580d4ad50d2a,263,Which river is the longest in the United States?,Missouri River,Mississippi River,Colorado River,Ohio River,true,false,false,false,USA,Geography,,,Medium
+666388809d00580d4ad50d2b,264,What is the tallest mountain in North America?,Denali,Mount Whitney,Mount Elbert,Mount Rainier,true,false,false,false,USA,Geography,,,Easy
+666388809d00580d4ad50d2c,265,In which state is the Grand Canyon located?,Arizona,Utah,Nevada,Colorado,true,false,false,false,USA,Geography,,,Hard
+666388809d00580d4ad50d2d,266,Which U.S. state has the longest coastline?,Alaska,California,Florida,Hawaii,true,false,false,false,USA,Geography,,,Medium
+666388809d00580d4ad50d2e,267,What is the name of the island that houses the Statue of Liberty?,Liberty Island,Ellis Island,Manhattan Island,Governors Island,true,false,false,false,USA,Geography,,,Easy
+666388809d00580d4ad50d2f,268,Which U.S. state is home to the Great Smoky Mountains National Park?,Tennessee,North Carolina,Virginia,Georgia,true,false,false,false,USA,Geography,,,Hard
+666388809d00580d4ad50d30,269,What is the name of the largest desert in the United States?,Great Basin Desert,Mojave Desert,Sonoran Desert,Chihuahuan Desert,true,false,false,false,USA,Geography,,,Medium
+666388809d00580d4ad50d31,270,"Which state is known as the ""Land of 10,000 Lakes""?",Minnesota,Wisconsin,Michigan,Idaho,true,false,false,false,USA,Geography,,,Hard
+666388809d00580d4ad50d32,271,Which U.S. state is the only one composed entirely of islands?,Hawaii,Alaska,Rhode Island,Florida,true,false,false,false,USA,Geography,,,Medium
+666388809d00580d4ad50d33,272,What is the smallest state in the United States by area?,Rhode Island,Delaware,Connecticut,New Jersey,true,false,false,false,USA,Geography,,,Easy
+666388809d00580d4ad50d34,273,Which river forms part of the border between Texas and Mexico?,Rio Grande,Colorado River,Pecos River,Arkansas River,true,false,false,false,USA,Geography,,,Hard
+666388809d00580d4ad50d35,274,What is the name of the major fault line in California known for earthquakes?,San Andreas Fault,Cascadia Subduction Zone,Hayward Fault,Newport-Inglewood Fault,true,false,false,false,USA,Geography,,,Medium
+666388809d00580d4ad50d36,275,"Which state is home to the largest volcano in the U.S., Mauna Loa?",Hawaii,Washington,Oregon,California,true,false,false,false,USA,Geography,,,Hard
+666388809d00580d4ad50d37,276,What is the capital of Texas?,Austin,Dallas,Houston,San Antonio,true,false,false,false,USA,Geography,,,Medium
+666388809d00580d4ad50d38,277,Which U.S. state has the highest average elevation?,Colorado,Utah,Nevada,Wyoming,true,false,false,false,USA,Geography,,,Hard
+666388809d00580d4ad50d39,278,"Which river is known as the ""Mighty Mississippi""?",Mississippi River,Missouri River,Ohio River,Tennessee River,true,false,false,false,USA,Geography,,,Medium
+666388809d00580d4ad50d3a,279,Which U.S. state is known for its potatoes?,Idaho,Iowa,Nebraska,Montana,true,false,false,false,USA,Geography,,,Easy
+666388809d00580d4ad50d3b,280,"Who is known as the ""King of Pop""?",Michael Jackson,Elvis Presley,Prince,Justin Timberlake,true,false,false,false,USA,Music,,,Easy
+666388809d00580d4ad50d3c,281,"Which artist released the album ""Lemonade"" in 2016?",Beyoncé,Rihanna,Taylor Swift,Lady Gaga,true,false,false,false,USA,Music,,,Medium
+666388809d00580d4ad50d3d,282,What was the first music video played on MTV?,"""Video Killed the Radio Star"" by The Buggles","""Thriller"" by Michael Jackson","""Like a Virgin"" by Madonna","""Billie Jean"" by Michael Jackson",true,false,false,false,USA,Music,,,Hard
+666388809d00580d4ad50d3e,283,"Who is the lead singer of the band ""Nirvana""?",Kurt Cobain,Eddie Vedder,Chris Cornell,Dave Grohl,true,false,false,false,USA,Music,,,Medium
+666388809d00580d4ad50d3f,284,"Which artist is known for the hit song ""Born in the USA""?",Bruce Springsteen,Billy Joel,John Mellencamp,Bob Dylan,true,false,false,false,USA,Music,,,Easy
+666388809d00580d4ad50d40,285,Who was the first female artist to be inducted into the Rock and Roll Hall of Fame?,Aretha Franklin,Janis Joplin,Tina Turner,Joan Baez,true,false,false,false,USA,Music,,,Hard
+666388809d00580d4ad50d41,286,Which American artist won the Nobel Prize in Literature in 2016?,Bob Dylan,Leonard Cohen,Paul Simon,Bruce Springsteen,true,false,false,false,USA,Music,,,Medium
+666388809d00580d4ad50d42,287,What is the best-selling album of all time in the USA?,"""Thriller"" by Michael Jackson","""Back in Black"" by AC/DC","""The Dark Side of the Moon"" by Pink Floyd","""The Wall"" by Pink Floyd",true,false,false,false,USA,Music,,,Medium
+666388809d00580d4ad50d43,288,Who was the original drummer for The Beatles before Ringo Starr?,Pete Best,Stuart Sutcliffe,Richard Starkey,Brian Epstein,true,false,false,false,USA,Music,,,Hard
+666388809d00580d4ad50d44,289,"Which artist is known for the song ""Purple Rain""?",Prince,David Bowie,Freddie Mercury,Elton John,true,false,false,false,USA,Music,,,Easy
+666388809d00580d4ad50d45,290,Who is the youngest artist to win the Grammy for Album of the Year?,Billie Eilish,Taylor Swift,Adele,Lorde,true,false,false,false,USA,Music,,,Hard
+666388809d00580d4ad50d46,291,"Which song by The Eagles is famous for the line ""You can check out anytime you like, but you can never leave""?","""Hotel California""","""Desperado""","""Take It Easy""","""Life in the Fast Lane""",true,false,false,false,USA,Music,,,Medium
+666388809d00580d4ad50d47,292,"What band was originally named ""The New Yardbirds""?",Led Zeppelin,The Who,The Rolling Stones,Cream,true,false,false,false,USA,Music,,,Hard
+666388809d00580d4ad50d48,293,Who is the best-selling female artist of all time in the USA?,Madonna,Whitney Houston,Mariah Carey,Celine Dion,true,false,false,false,USA,Music,,,Medium
+666388809d00580d4ad50d49,294,"Which artist had a hit with the song ""Shake It Off""?",Taylor Swift,Katy Perry,Ariana Grande,Selena Gomez,true,false,false,false,USA,Music,,,Easy
+666388809d00580d4ad50d4a,295,What was the first rap song to reach number one on the Billboard Hot 100?,"""Ice Ice Baby"" by Vanilla Ice","""Fight the Power"" by Public Enemy","""U Can't Touch This"" by MC Hammer","""Rapper's Delight"" by Sugarhill Gang",true,false,false,false,USA,Music,,,Hard
+666388809d00580d4ad50d4b,296,"Which artist is known as the ""Queen of Soul""?",Aretha Franklin,Whitney Houston,Diana Ross,Tina Turner,true,false,false,false,USA,Music,,,Medium
+666388809d00580d4ad50d4c,297,What was the first opera performed in the United States?,"""La Serva Padrona""","""Madama Butterfly""","""The Barber of Seville""","""Don Giovanni""",true,false,false,false,USA,Music,,,Hard
+666388809d00580d4ad50d4d,298,"Who performed the famous guitar solo in ""Stairway to Heaven""?",Jimmy Page,Eric Clapton,Jimi Hendrix,Keith Richards,true,false,false,false,USA,Music,,,Easy
+666388809d00580d4ad50d4e,299,"Which American singer-songwriter is known for the song ""Fire and Rain""?",James Taylor,John Denver,Paul Simon,Carole King,true,false,false,false,USA,Music,,,Medium
+666388809d00580d4ad50d4f,300,Who is the all-time leading scorer in NBA history (as of 2024)?,LeBron James,Kareem Abdul-Jabbar,Michael Jordan,Kobe Bryant,true,false,false,false,USA,Sports,,,Easy
+666388809d00580d4ad50d50,301,Which NFL team has won the most Super Bowls?,Pittsburgh Steelers,New England Patriots,Dallas Cowboys,San Francisco 49ers,true,false,false,false,USA,Sports,,,Medium
+666388809d00580d4ad50d51,302,Who was the first African American to win the U.S. Open in tennis?,Arthur Ashe,Althea Gibson,Serena Williams,Venus Williams,true,false,false,false,USA,Sports,,,Hard
+666388809d00580d4ad50d52,303,What is the maximum score possible in a single frame of ten-pin bowling?,30,20,40,50,true,false,false,false,USA,Sports,,,Medium
+666388809d00580d4ad50d53,304,"Which baseball player is known as the ""Sultan of Swat""?",Babe Ruth,Hank Aaron,Lou Gehrig,Mickey Mantle,true,false,false,false,USA,Sports,,,Easy
+666388809d00580d4ad50d54,305,Who was the first woman to run the Boston Marathon officially?,Kathrine Switzer,Billie Jean King,Florence Griffith Joyner,Wilma Rudolph,true,false,false,false,USA,Sports,,,Hard
+666388809d00580d4ad50d55,306,What year did the USA host the Summer Olympics in Atlanta?,1996,1984,1976,2000,true,false,false,false,USA,Sports,,,Medium
+666388809d00580d4ad50d56,307,Who holds the record for the most home runs in a single MLB season?,Barry Bonds,Mark McGwire,Babe Ruth,Sammy Sosa,true,false,false,false,USA,Sports,,,Medium
+666388809d00580d4ad50d57,308,What team won the first Super Bowl?,Green Bay Packers,Kansas City Chiefs,New York Giants,Chicago Bears,true,false,false,false,USA,Sports,,,Easy
+666388809d00580d4ad50d58,309,Who was the first U.S. athlete to win gold medals in both Summer and Winter Olympics?,Eddie Eagan,Bonnie Blair,Shaun White,Apolo Ohno,true,false,false,false,USA,Sports,,,Hard
+666388809d00580d4ad50d59,310,"Which golf tournament is known as ""The Masters""?",Augusta National,U.S. Open,PGA Championship,The Open Championship,true,false,false,false,USA,Sports,,,Medium
+666388809d00580d4ad50d5a,311,Who was the first woman inducted into the Basketball Hall of Fame?,Lusia Harris,Cheryl Miller,Ann Meyers,Nancy Lieberman,true,false,false,false,USA,Sports,,,Hard
+666388809d00580d4ad50d5b,312,What city is home to the oldest continuously operating sports franchise in the U.S.?,Cincinnati,New York,Boston,Chicago,true,false,false,false,USA,Sports,,,Medium
+666388809d00580d4ad50d5c,313,"Who won the ""Battle of the Sexes"" tennis match in 1973?",Billie Jean King,Bobby Riggs,Chris Evert,Martina Navratilova,true,false,false,false,USA,Sports,,,Easy
+666388809d00580d4ad50d5d,314,Which American swimmer holds the record for the most Olympic gold medals?,Michael Phelps,Mark Spitz,Ryan Lochte,Katie Ledecky,true,false,false,false,USA,Sports,,,Hard
+666388809d00580d4ad50d5e,315,What is the name of the annual championship game of college football?,College Football Playoff National Championship,Rose Bowl,Sugar Bowl,Fiesta Bowl,true,false,false,false,USA,Sports,,,Medium
+666388809d00580d4ad50d5f,316,Who is the youngest player ever to be drafted into the NBA?,Andrew Bynum,Kobe Bryant,LeBron James,Kevin Garnett,true,false,false,false,USA,Sports,,,Hard
+666388809d00580d4ad50d60,317,"Which American boxer was known as ""The Greatest""?",Muhammad Ali,Mike Tyson,Joe Frazier,George Foreman,true,false,false,false,USA,Sports,,,Medium
+666388809d00580d4ad50d61,318,"Who is known as ""The Great One"" in hockey?",Wayne Gretzky,Bobby Orr,Gordie Howe,Mario Lemieux,true,false,false,false,USA,Sports,,,Easy
+666388809d00580d4ad50d62,319,Which American track and field athlete won four gold medals in the 1936 Berlin Olympics?,Jesse Owens,Carl Lewis,Jim Thorpe,Wilma Rudolph,true,false,false,false,USA,Sports,,,Hard
+666388809d00580d4ad50d63,320,Which company is the largest retailer in the United States?,Walmart,Amazon,Costco,Target,true,false,false,false,USA,Industries,,,Medium
+666388809d00580d4ad50d64,321,What is the primary industry of the company Berkshire Hathaway?,Conglomerate,Financial Services,Real Estate,Technology,true,false,false,false,USA,Industries,,,Hard
+666388809d00580d4ad50d65,322,Who is the founder of Amazon?,Jeff Bezos,Bill Gates,Elon Musk,Mark Zuckerberg,true,false,false,false,USA,Industries,,,Medium
+666388809d00580d4ad50d66,323,What is the main product of The Coca-Cola Company?,Soft Drinks,Bottled Water,Juices,Snacks,true,false,false,false,USA,Industries,,,Easy
+666388809d00580d4ad50d67,324,Which American company is the leading producer of semiconductors?,Intel,AMD,Qualcomm,Texas Instruments,true,false,false,false,USA,Industries,,,Hard
+666388809d00580d4ad50d68,325,"Who is the CEO of Tesla, Inc. as of 2024?",Elon Musk,Tim Cook,Sundar Pichai,Jeff Bezos,true,false,false,false,USA,Industries,,,Medium
+666388809d00580d4ad50d69,326,Which company is known for its iPhone and Mac computers?,Apple,Microsoft,Google,Samsung,true,false,false,false,USA,Industries,,,Medium
+666388809d00580d4ad50d6a,327,What is the main business of the company Johnson & Johnson?,Pharmaceuticals and Consumer Health,Aerospace,Automobiles,Financial Services,true,false,false,false,USA,Industries,,,Hard
+666388809d00580d4ad50d6b,328,Which company is the largest aerospace manufacturer in the USA?,Boeing,Lockheed Martin,Northrop Grumman,Raytheon,true,false,false,false,USA,Industries,,,Medium
+666388809d00580d4ad50d6c,329,Who founded the electric car company Tesla?,Elon Musk,Steve Jobs,Henry Ford,Larry Page,true,false,false,false,USA,Industries,,,Easy
+666388809d00580d4ad50d6d,330,Which American company is the largest producer of renewable energy?,NextEra Energy,Duke Energy,Dominion Energy,Exelon,true,false,false,false,USA,Industries,,,Hard
+666388809d00580d4ad50d6e,331,What industry is General Electric primarily involved in?,Energy and Appliances,Automotive,Technology,Retail,true,false,false,false,USA,Industries,,,Medium
+666388809d00580d4ad50d6f,332,Which company is the largest manufacturer of microchips in the USA?,Intel,NVIDIA,Broadcom,AMD,true,false,false,false,USA,Industries,,,Hard
+666388809d00580d4ad50d70,333,What is the primary product of the company ExxonMobil?,Oil and Gas,Chemicals,Pharmaceuticals,Electronics,true,false,false,false,USA,Industries,,,Medium
+666388809d00580d4ad50d71,334,Who is the founder of the media company Bloomberg L.P.?,Michael Bloomberg,Rupert Murdoch,Ted Turner,Walt Disney,true,false,false,false,USA,Industries,,,Hard
+666388809d00580d4ad50d72,335,Which American company is the largest coffeehouse chain in the world?,Starbucks,Dunkin',McCafe,Coffee Bean & Tea Leaf,true,false,false,false,USA,Industries,,,Medium
+666388809d00580d4ad50d73,336,What is the main industry of the company Caterpillar Inc.?,Construction Equipment,Aerospace,Food and Beverages,Pharmaceuticals,true,false,false,false,USA,Industries,,,Hard
+666388809d00580d4ad50d74,337,Who is the founder of Microsoft?,Bill Gates,Steve Jobs,Larry Ellison,Sergey Brin,true,false,false,false,USA,Industries,,,Easy
+666388809d00580d4ad50d75,338,Which company is known for its fast-food chain specializing in burgers?,McDonald's,KFC,Taco Bell,Domino's,true,false,false,false,USA,Industries,,,Medium
+666388809d00580d4ad50d76,339,What is the main industry of the company Salesforce?,Cloud-based Software,Automotive,Consumer Electronics,Pharmaceuticals,true,false,false,false,USA,Industries,,,Hard
+666388809d00580d4ad50d77,340,Who was the first President of the United States?,George Washington,Thomas Jefferson,John Adams,James Madison,true,false,false,false,USA,FamousPersonalities,History,,Easy
+666388809d00580d4ad50d78,341,"Who wrote the famous speech ""I Have a Dream""?",Martin Luther King Jr.,Malcolm X,Rosa Parks,Thurgood Marshall,true,false,false,false,USA,FamousPersonalities,History,,Medium
+666388809d00580d4ad50d79,342,Who was the first woman to fly solo across the Atlantic Ocean?,Amelia Earhart,Sally Ride,Bessie Coleman,Jacqueline Cochran,true,false,false,false,USA,FamousPersonalities,History,,Hard
+666388809d00580d4ad50d7a,343,Who is the founder of SpaceX?,Elon Musk,Jeff Bezos,Richard Branson,Bill Gates,true,false,false,false,USA,FamousPersonalities,History,,Medium
+666388809d00580d4ad50d7b,344,"Who is known as the ""Father of the Constitution""?",James Madison,George Washington,Thomas Jefferson,John Jay,true,false,false,false,USA,FamousPersonalities,History,,Easy
+666388809d00580d4ad50d7c,345,"Which American author wrote ""The Catcher in the Rye""?",J.D. Salinger,Ernest Hemingway,F. Scott Fitzgerald,Mark Twain,true,false,false,false,USA,FamousPersonalities,History,,Hard
+666388809d00580d4ad50d7d,346,Who was the first African American President of the United States?,Barack Obama,Jesse Jackson,Martin Luther King Jr.,Al Sharpton,true,false,false,false,USA,FamousPersonalities,History,,Medium
+666388809d00580d4ad50d7e,347,Who is the co-founder of Microsoft?,Bill Gates,Steve Jobs,Larry Ellison,Mark Zuckerberg,true,false,false,false,USA,FamousPersonalities,History,,Easy
+666388809d00580d4ad50d7f,348,Which American industrialist is known for revolutionizing the automobile industry with the assembly line?,Henry Ford,Thomas Edison,John D. Rockefeller,Andrew Carnegie,true,false,false,false,USA,FamousPersonalities,History,,Medium
+666388809d00580d4ad50d80,349,Who was the first woman to serve on the U.S. Supreme Court?,Sandra Day O'Connor,Ruth Bader Ginsburg,Sonia Sotomayor,Elena Kagan,true,false,false,false,USA,FamousPersonalities,History,,Hard
+666388809d00580d4ad50d81,350,Who is the CEO of Berkshire Hathaway?,Warren Buffett,Jeff Bezos,Bill Gates,Elon Musk,true,false,false,false,USA,FamousPersonalities,History,,Medium
+666388809d00580d4ad50d82,351,"Who is known as the ""King of Rock and Roll""?",Elvis Presley,Michael Jackson,Buddy Holly,Chuck Berry,true,false,false,false,USA,FamousPersonalities,History,,Easy
+666388809d00580d4ad50d83,352,Who was the first African American woman to win the Nobel Prize for Literature?,Toni Morrison,Maya Angelou,Alice Walker,Zora Neale Hurston,true,false,false,false,USA,FamousPersonalities,History,,Hard
+666388809d00580d4ad50d84,353,Who is the founder of the Virgin Group?,Richard Branson,Jeff Bezos,Mark Cuban,Larry Page,true,false,false,false,USA,FamousPersonalities,History,,Medium
+666388809d00580d4ad50d85,354,Who was the primary author of the Declaration of Independence?,Thomas Jefferson,George Washington,Benjamin Franklin,John Adams,true,false,false,false,USA,FamousPersonalities,History,,Easy
+666388809d00580d4ad50d86,355,Which American scientist is known for developing the polio vaccine?,Jonas Salk,Albert Sabin,Louis Pasteur,Robert Koch,true,false,false,false,USA,FamousPersonalities,History,,Hard
+666388809d00580d4ad50d87,356,Who was the first African American Secretary of State?,Colin Powell,Condoleezza Rice,Thurgood Marshall,John Lewis,true,false,false,false,USA,FamousPersonalities,History,,Medium
+666388809d00580d4ad50d88,357,Who was the first female African American astronaut to go into space?,Mae Jemison,Sally Ride,Bessie Coleman,Ellen Ochoa,true,false,false,false,USA,FamousPersonalities,History,,Hard
+666388809d00580d4ad50d89,358,"Who is known as the ""Father of the American Revolution""?",Samuel Adams,Thomas Paine,Paul Revere,Patrick Henry,true,false,false,false,USA,FamousPersonalities,History,,Medium
+666388809d00580d4ad50d8a,359,Who is the current CEO of Apple (as of 2024)?,Tim Cook,Steve Jobs,Jeff Bezos,Sundar Pichai,true,false,false,false,USA,FamousPersonalities,History,,Easy

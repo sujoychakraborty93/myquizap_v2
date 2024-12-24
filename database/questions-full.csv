@@ -1,0 +1,360 @@
+question_id,question_title,answer,answer.1,answer.2,answer.3,region,topic,difficulty
+1,Who is the current President of India (as of 2024)?,Droupadi Murmu,Ram Nath Kovind,Pranab Mukherjee,A.P.J. Abdul Kalam,India,Politics;History;,Easy
+2,Which Indian Prime Minister signed the Indo-US Nuclear Deal?,Manmohan Singh,Narendra Modi,Atal Bihari Vajpayee,Rajiv Gandhi,India,Politics;History;,Hard
+3,What is the Article 370 known for?,Special status to Jammu & Kashmir,Reservation in education,Emergency powers,Fundamental rights,India,Politics;,Medium
+4,Who was the first Prime Minister of India to resign from office?,Morarji Desai,Indira Gandhi,Lal Bahadur Shastri,P.V. Narasimha Rao,India,Politics;History;,Hard
+5,Which party is known as the oldest political party in India?,Indian National Congress,Bharatiya Janata Party,Communist Party of India,Nationalist Congress Party,India,Politics;History;,Easy
+6,Who was the first Speaker of the Lok Sabha?,Ganesh Vasudev Mavalankar,Sarvepalli Radhakrishnan,K.S. Hegde,Sumitra Mahajan,India,Politics;History;,Hard
+7,What is the maximum strength of the Lok Sabha?,552,500,545,560,India,Politics;,Easy
+8,"Which Indian political leader initiated the ""Green Revolution""?",Lal Bahadur Shastri,Indira Gandhi,P.V. Narasimha Rao,Rajiv Gandhi,India,Politics;History;,Medium
+9,Who was the first Governor-General of independent India?,Lord Mountbatten,C. Rajagopalachari,Warren Hastings,Lord Wavell,India,Politics;History;,Easy
+10,Which Indian state was the first to implement the Panchayati Raj system?,Rajasthan,Bihar,Uttar Pradesh,Kerala,India,Politics;History;,Hard
+11,Who is known as the 'Iron Lady of India'?,Indira Gandhi,Sarojini Naidu,Sucheta Kriplani,Pratibha Patil,India,Politics;History;,Medium
+12,Who is the current Chief Minister of Maharashtra (as of 2024)?,Eknath Shinde,Uddhav Thackeray,Devendra Fadnavis,Ashok Chavan,India,Politics;,Hard
+13,Which article of the Indian Constitution deals with the protection of minorities?,Article 29,Article 15,Article 19,Article 25,India,Politics;History;,Hard
+14,Who was the first woman to serve as the Chief Minister of an Indian state?,Sucheta Kriplani,Jayalalithaa,Mamata Banerjee,Vasundhara Raje,India,Politics;History;,Hard
+15,What does the term 'Franchise' refer to in Indian politics?,The right to vote,Forming a government,Joining a political party,Protesting policies,India,Politics;History;,Hard
+16,Which commission was set up to investigate the Babri Masjid demolition?,Liberhan Commission,Nanavati Commission,Shah Commission,Verma Commission,India,Politics;History;,Hard
+17,Which political party does Arvind Kejriwal belong to?,Aam Aadmi Party,Bharatiya Janata Party,Indian National Congress,Samajwadi Party,India,Politics;History;,Easy
+18,Who appoints the judges of the Supreme Court of India?,The President of India,The Prime Minister,The Chief Justice of India,The Law Minister,India,Politics;,Medium
+19,Which Indian state was created in 2000 along with Uttarakhand and Jharkhand?,Chhattisgarh,Telangana,Mizoram,Sikkim,India,Politics;History;,Medium
+20,Which political leader is known for the 'Operation Blue Star'?,Indira Gandhi,Rajiv Gandhi,Lal Bahadur Shastri,Manmohan Singh,India,Politics;History;,Medium
+21,Who was the founder of the Maurya Dynasty?,Chandragupta Maurya,Ashoka,Bindusara,Harsha,India,History;FreedomMovement;,Easy
+22,When did the Battle of Plassey take place?,1757,1764,1857,1775,India,History;FreedomMovement;,Easy
+23,Which Indian freedom fighter is known as the 'Iron Man of India'?,Sardar Vallabhbhai Patel,Bhagat Singh,Subhas Chandra Bose,Jawaharlal Nehru,India,History;FreedomMovement;,Easy
+24,Who was the Mughal emperor during the First Battle of Panipat?,Babur,Akbar,Aurangzeb,Shah Jahan,India,History;,Medium
+25,What is the ancient name of Patna?,Pataliputra,Prayag,Vaishali,Hastinapur,India,History;,Easy
+26,Which Indian king fought against Alexander the Great?,King Porus,Ashoka,Chandragupta Maurya,Raja Raja Chola,India,History;,Easy
+27,Who was the last Viceroy of British India?,Lord Mountbatten,Lord Wavell,Lord Linlithgow,Lord Irwin,India,History;,Medium
+28,Who established the All India Muslim League?,Nawab Khwaja Salimullah,Sir Syed Ahmed Khan,Maulana Abul Kalam Azad,Muhammad Ali Jinnah,India,History;,Medium
+29,Who led the Dandi March?,Mahatma Gandhi,Sardar Patel,Jawaharlal Nehru,Subhas Chandra Bose,India,History;,Easy
+30,Which Indian ruler is known for his rock-cut caves and pillars?,Ashoka,Harsha,Kanishka,Samudragupta,India,History;,Medium
+31,Who was the founder of the Sikh Empire?,Maharaja Ranjit Singh,Guru Gobind Singh,Guru Nanak,Guru Arjan Dev,India,History;,Medium
+32,When was the Quit India Movement launched?,1942,1930,1947,1919,India,History;,Easy
+33,Who was the first Indian woman to become the President of the Indian National Congress?,Annie Besant,Sarojini Naidu,Indira Gandhi,Sucheta Kriplani,India,History;,Medium
+34,What is the original name of Swami Vivekananda?,Narendra Nath Datta,Subhas Chandra Bose,Bhimrao Ambedkar,Mohandas Karamchand Gandhi,India,History;,Medium
+35,Who was the first Indian to win a Nobel Prize?,Rabindranath Tagore,C.V. Raman,Amartya Sen,Mother Teresa,India,History;,Medium
+36,When did India adopt its Constitution?,26 January 1950,15 August 1947,1 January 1950,26 January 1949,India,History;,Easy
+37,Who is known as the 'Father of Indian Renaissance'?,Raja Ram Mohan Roy,Bal Gangadhar Tilak,Dadabhai Naoroji,Rabindranath Tagore,India,History;,Medium
+38,Who was the first Indian Governor-General of independent India?,C. Rajagopalachari,Dr. Rajendra Prasad,Jawaharlal Nehru,Sardar Patel,India,History;,Hard
+39,Who founded the Indian National Army (INA)?,Subhas Chandra Bose,Mahatma Gandhi,Bhagat Singh,Jawaharlal Nehru,India,History;,Medium
+40,Who is known as the 'Shahenshah' of Bollywood?,Amitabh Bachchan,Shah Rukh Khan,Salman Khan,Dharmendra,India,Bollywood;Movies;Cinema;,Easy
+41,"Which Bollywood film features the song ""Kabhi Kabhi Mere Dil Mein""?",Kabhi Kabhie,Silsila,Muqaddar Ka Sikandar,Deewaar,India,Bollywood;Movies;Cinema;,Easy
+42,"Who directed the epic film ""Mughal-e-Azam""?",K. Asif,Guru Dutt,Raj Kapoor,Mehboob Khan,India,Bollywood;Movies;Cinema;,Medium
+43,"Which actor played the character 'Vijay Dinanath Chauhan' in ""Agneepath""?",Amitabh Bachchan,Hrithik Roshan,Akshay Kumar,Sanjay Dutt,India,Bollywood;Movies;Cinema;,Easy
+44,"Who was the lead actress in the film ""Mother India""?",Nargis,Madhubala,Meena Kumari,Nutan,India,Bollywood;Movies;Cinema;,Medium
+45,Which Bollywood movie is based on the real-life story of wrestler Mahavir Singh Phogat?,Dangal,Sultan,Mary Kom,Chak De! India,India,Bollywood;Movies;Cinema;,Easy
+46,Who is known as the 'Tragedy King' of Bollywood?,Dilip Kumar,Dev Anand,Rajesh Khanna,Raj Kapoor,India,Bollywood;Movies;Cinema;,Medium
+47,"Which film features the famous dialogue ""Mere paas maa hai""?",Deewaar,Sholay,Amar Akbar Anthony,Zanjeer,India,Bollywood;Movies;Cinema;,Medium
+48,"Who is the music director duo behind the soundtrack of ""Sholay""?",R.D. Burman,Laxmikant-Pyarelal,Jatin-Lalit,Nadeem-Shravan,India,Bollywood;Movies;Cinema;,Medium
+49,"Who played the character of Bajirao in the film ""Bajirao Mastani""?",Ranveer Singh,Shahid Kapoor,Ranbir Kapoor,Hrithik Roshan,India,Bollywood;Movies;Cinema;,Medium
+50,Which Bollywood film won the Best Foreign Language Film at the Academy Awards?,None,Lagaan,Mother India,Salaam Bombay!,India,Bollywood;Movies;Cinema;,Medium
+51,What was the first Bollywood film to be released in theaters?,Raja Harishchandra,Alam Ara,Kisan Kanya,Sant Tukaram,India,Bollywood;Movies;Cinema;,Hard
+52,"Who choreographed the iconic song ""Ek Do Teen"" from ""Tezaab""?",Saroj Khan,Farah Khan,Vaibhavi Merchant,Remo D'Souza,India,Bollywood;Movies;Cinema;,Medium
+53,"Which actress made her Bollywood debut with the film ""Parineeta""?",Vidya Balan,Priyanka Chopra,Deepika Padukone,Anushka Sharma,India,Bollywood;Movies;Cinema;,Easy
+54,"Which Bollywood director is known for the films ""Dilwale Dulhania Le Jayenge"" and ""Kuch Kuch Hota Hai""?",Karan Johar,Aditya Chopra,Yash Chopra,Sanjay Leela Bhansali,India,Bollywood;Movies;Cinema;,Easy
+55,Which Bollywood actor is also known as the 'Khiladi'?,Akshay Kumar,Ajay Devgn,Suniel Shetty,John Abraham,India,Bollywood;Movies;Cinema;,Easy
+56,Which film features the character 'Gabbar Singh'?,Sholay,Deewaar,Don,Zanjeer,India,Bollywood;Movies;Cinema;,Easy
+57,Who was the first Indian actress to win an Oscar?,Bhanu Athaiya,Shabana Azmi,Priyanka Chopra,Smita Patil,India,Bollywood;Movies;Cinema;,Medium
+58,"Which Bollywood film is famous for the song ""Chaiyya Chaiyya""?",Dil Se,Taal,Rangeela,Dilwale,India,Bollywood;Movies;Cinema;,Easy
+59,"Who played the role of Munna Bhai in ""Munna Bhai M.B.B.S.""?",Sanjay Dutt,Salman Khan,Shah Rukh Khan,Aamir Khan,India,Bollywood;Movies;Cinema;,Easy
+60,Which is the highest-grossing Bollywood film of all time?,Dangal,Baahubali 2,PK,Sultan,India,Bollywood;Movies;Cinema;,Medium
+61,Who is known as the 'King of Bollywood'?,Shah Rukh Khan,Salman Khan,Aamir Khan,Amitabh Bachchan,India,Bollywood;Movies;Cinema;,Easy
+62,Which Bollywood actor is known as 'Mr. Perfectionist'?,Aamir Khan,Hrithik Roshan,Shah Rukh Khan,Ranbir Kapoor,India,Bollywood;Movies;Cinema;,Easy
+63,Who won the first Filmfare Award for Best Actor?,Dilip Kumar,Rajesh Khanna,Rajkumar,Raj Kapoor,India,Bollywood;Movies;Cinema;,Medium
+64,What is the longest river in India?,Ganges,Brahmaputra,Godavari,Yamuna,India,Geography,Medium
+65,Which is the largest state in India by area?,Rajasthan,Madhya Pradesh,Maharashtra,Uttar Pradesh,India,Geography,Hard
+66,Which Indian state has the longest coastline?,Gujarat,Tamil Nadu,Andhra Pradesh,Maharashtra,India,Geography,Hard
+67,What is the highest peak in India?,Kangchenjunga,Nanda Devi,K2,Kamet,India,Geography,Easy
+68,Which river is known as the 'Sorrow of Bihar'?,Kosi River,Ganga,Yamuna,Gandak,India,Geography,Medium
+69,What is the capital of the Andaman and Nicobar Islands?,Port Blair,Daman,Lakshadweep,Silvassa,India,Geography,Easy
+70,Which lake is the largest saltwater lake in India?,Chilika Lake,Sambhar Lake,Pulicat Lake,Loktak Lake,India,Geography,Medium
+71,What is the southernmost point of India called?,Indira Point,Kanyakumari,Cape Comorin,Kovalam,India,Geography,Hard
+72,Which state in India is known as the 'Land of Five Rivers'?,Punjab,Haryana,Himachal Pradesh,Uttar Pradesh,India,Geography,Medium
+73,Which is the largest desert in India?,Thar Desert,White Desert,Rann of Kutch,Ladakh Desert,India,Geography,Medium
+74,What is the name of the mountain range that runs parallel to the western coast of India?,Western Ghats,Eastern Ghats,Aravalli Range,Satpura Range,India,Geography,Medium
+75,"Which river forms the largest river island in the world, Majuli?",Brahmaputra River,Ganga,Godavari,Krishna,India,Geography,Hard
+76,What is the main mineral found in the mines of Jharkhand?,Coal,Iron,Bauxite,Copper,India,Geography,Hard
+77,Which plateau is known as the 'Deccan Plateau'?,Southern Plateau of India,Malwa Plateau,Chota Nagpur Plateau,Meghalaya Plateau,India,Geography,Easy
+78,What is the capital of Lakshadweep?,Kavaratti,Agatti,Minicoy,Amini,India,Geography,Easy
+79,Which river is considered the lifeline of Madhya Pradesh and Gujarat?,Narmada River,Tapti,Godavari,Krishna,India,Geography,Medium
+80,Which Indian state is famous for its backwaters?,Kerala,Tamil Nadu,Karnataka,Andhra Pradesh,India,Geography,Easy
+81,What is the name of the pass that connects Srinagar to Leh?,Zoji La Pass,Rohtang Pass,Nathu La Pass,Shipki La Pass,India,Geography,Hard
+82,Which Indian state is the leading producer of coffee?,Karnataka,Kerala,Tamil Nadu,Andhra Pradesh,India,Geography,Medium
+83,What is the smallest state in India by area?,Goa,Sikkim,Mizoram,Tripura,India,Geography,Easy
+84,Who was the first Indian woman to win an Olympic medal?,Karnam Malleswari,Mary Kom,P.T. Usha,Saina Nehwal,India,Sports;,Medium
+85,Which Indian cricketer is known as the 'Master Blaster'?,Sachin Tendulkar,Virat Kohli,Sunil Gavaskar,Kapil Dev,India,Sports;,Easy
+86,Who was the first Indian to win the All England Badminton Championship?,Prakash Padukone,Pullela Gopichand,Saina Nehwal,Kidambi Srikanth,India,Sports;,Hard
+87,In which sport did Dhyan Chand excel?,Hockey,Cricket,Football,Tennis,India,Sports;,Easy
+88,Who is the first Indian to win an individual gold medal at the Olympics?,Abhinav Bindra,Milkha Singh,Vijender Singh,Leander Paes,India,Sports;,Hard
+89,Which Indian state is known for the traditional sport of 'Kabaddi'?,Haryana,Punjab,Maharashtra,Tamil Nadu,India,Sports;,Medium
+90,Which Indian chess player became the World Chess Champion in 2000?,Viswanathan Anand,P. Harikrishna,Nihal Sarin,Koneru Humpy,India,Sports;,Easy
+91,Who is known as the 'Flying Sikh' of India?,Milkha Singh,P.T. Usha,Anju Bobby George,Bhaag Milkha,India,Sports;,Easy
+92,Who was the first Indian woman to become World No. 1 in badminton?,Saina Nehwal,P.V. Sindhu,Ashwini Ponnappa,Jwala Gutta,India,Sports;,Easy
+93,Which sport does Sunil Chhetri play?,Football,Cricket,Tennis,Hockey,India,Sports;,Easy
+94,Who is the first Indian gymnast to qualify for the Olympics?,Dipa Karmakar,Ashish Kumar,Aruna Reddy,Deepak Karmakar,India,Sports;,Medium
+95,Which Indian shooter has won the most gold medals in international competitions?,Jaspal Rana,Abhinav Bindra,Gagan Narang,Rajyavardhan Rathore,India,Sports;,Medium
+96,Who won India's first individual Olympic medal in wrestling?,K.D. Jadhav,Sushil Kumar,Yogeshwar Dutt,Bajrang Punia,India,Sports;,Medium
+97,Which Indian cricketer holds the record for the fastest century in ODIs?,Virat Kohli,Rohit Sharma,Kapil Dev,Mahendra Singh Dhoni,India,Sports;,Easy
+98,Who was the first Indian to win a Grand Slam tennis tournament?,Mahesh Bhupathi,Leander Paes,Sania Mirza,Rohan Bopanna,India,Sports;,Medium
+99,Which Indian athlete won a gold medal in the 800m race at the 2018 Asian Games?,Manjit Singh,Hima Das,Jinson Johnson,Dutee Chand,India,Sports;,Hard
+100,Which Indian footballer holds the record for the most international goals scored?,Sunil Chhetri,Bhaichung Bhutia,I.M. Vijayan,Gurpreet Singh Sandhu,India,Sports;,Medium
+101,Who is the first Indian woman to win a silver medal at the Olympics?,P.V. Sindhu,Mary Kom,Sakshi Malik,Karnam Malleswari,India,Sports;,Hard
+102,Which Indian tennis player is known as the 'Leaping Indian'?,Leander Paes,Mahesh Bhupathi,Vijay Amritraj,Ramesh Krishnan,India,Sports;,Hard
+103,Who is the only Indian athlete to win a World Championship gold medal in track and field?,Neeraj Chopra,Anju Bobby George,Milkha Singh,P.T. Usha,India,Sports;,Medium
+104,Which Indian company is the largest steel producer in the world?,Tata Steel,JSW Steel,SAIL,Bhushan Steel,India,Industry;Economy;,Easy
+105,What is the primary industry of Infosys?,IT Services,Pharmaceutical,Automobile,FMCG,India,Industry;Economy;,Easy
+106,Which Indian city is known as the 'Silicon Valley of India'?,Bangalore,Hyderabad,Chennai,Pune,India,Industry;Economy;,Easy
+107,Who is the founder of Reliance Industries?,Dhirubhai Ambani,Mukesh Ambani,Anil Ambani,Ratan Tata,India,Industry;Economy;,Easy
+108,Which company owns the 'Royal Enfield' brand?,Eicher Motors,Bajaj Auto,TVS Motors,Hero MotoCorp,India,Industry;Economy;,Hard
+109,Which is the largest IT services company in India by revenue?,Tata Consultancy Services (TCS),Wipro,Infosys,HCL Technologies,India,Industry;Economy;,Medium
+110,Who is the CEO of HCL Technologies as of 2024?,C. Vijayakumar,Shiv Nadar,Arvind Krishna,Sundar Pichai,India,Industry;Economy;,Hard
+111,Which Indian company is the leading manufacturer of wind turbines?,Suzlon,BHEL,L&T,Adani Green Energy,India,Industry;Economy;,Hard
+112,What is the main business of Hindustan Unilever Limited (HUL)?,FMCG,Textiles,IT Services,Real Estate,India,Industry;Economy;,Hard
+113,Which Indian conglomerate owns Jaguar and Land Rover?,Tata Group,Mahindra & Mahindra,Bajaj Group,Reliance Group,India,Industry;Economy;,Medium
+114,Which company is the largest producer of cement in India?,UltraTech Cement,Ambuja Cement,ACC Cement,Shree Cement,India,Industry;Economy;,Hard
+115,Which Indian company is the leading producer of pharmaceutical products?,Sun Pharmaceutical,Cipla,Dr. Reddy's Laboratories,Lupin,India,Industry;Economy;,Hard
+116,Which Indian company is the largest exporter of software?,Tata Consultancy Services (TCS),Infosys,Wipro,HCL Technologies,India,Industry;Economy;,Medium
+117,What is the flagship airline of India?,Air India,IndiGo,Vistara,SpiceJet,India,Industry;Economy;,Easy
+118,Which Indian company is the largest private sector coal producer?,Adani Enterprises,Coal India,Reliance Power,Vedanta,India,Industry;Economy;,Medium
+119,Which Indian company is known for its luxury hotels and hospitality?,The Taj Group,Oberoi Hotels,ITC Hotels,Marriott International,India,Industry;Economy;,Medium
+120,Which Indian company is the largest mobile network operator by subscribers?,Reliance Jio,Airtel,Vodafone Idea,BSNL,India,Industry;Economy;,Easy
+121,Who is the founder of the software giant Wipro?,Azim Premji,Narayana Murthy,Shiv Nadar,Nandan Nilekani,India,Industry;Economy;,Easy
+122,Which Indian company is the largest two-wheeler manufacturer?,Hero MotoCorp,Bajaj Auto,TVS Motors,Royal Enfield,India,Industry;Economy;,Easy
+123,Which Indian company is known for its financial and insurance services?,ICICI Bank,State Bank of India,HDFC Bank,Kotak Mahindra Bank,India,Industry;Economy;,Easy
+124,Who is known as the 'Nightingale of India'?,Lata Mangeshkar,Asha Bhosle,Shreya Ghoshal,Sunidhi Chauhan,India,Music;,Easy
+125,Which musical instrument is Pandit Ravi Shankar famous for playing?,Sitar,Tabla,Flute,Violin,India,Music;,Easy
+126,"Who composed the Indian national anthem, ""Jana Gana Mana""?",Rabindranath Tagore,Bankim Chandra Chatterjee,A.R. Rahman,C. Ramachandra,India,Music;,Easy
+127,What is the classical dance form of Tamil Nadu?,Bharatanatyam,Kathak,Kuchipudi,Odissi,India,Music;,Medium
+128,Who is known as the 'Mozart of Madras'?,A.R. Rahman,Ilaiyaraaja,M.S. Viswanathan,R.D. Burman,India,Music;,Easy
+129,"Which Indian musician is known for the song ""Mile Sur Mera Tumhara""?",Bhimsen Joshi,Jagjit Singh,Hariharan,L. Subramaniam,India,Music;,Medium
+130,Who was the first Indian to receive the Grammy Award?,Pandit Ravi Shankar,Zakir Hussain,A.R. Rahman,Anoushka Shankar,India,Music;,Hard
+131,Which famous Indian playback singer was awarded the Bharat Ratna in 2001?,Lata Mangeshkar,Kishore Kumar,Mukesh,Manna Dey,India,Music;,Medium
+132,What is the traditional percussion instrument used in Carnatic music?,Mridangam,Tabla,Dholak,Pakhawaj,India,Music;,Hard
+133,Who is known as the 'Queen of Ghazals'?,Begum Akhtar,Farida Khanum,Noor Jehan,Suraiya,India,Music;,Hard
+134,Which Bollywood composer duo were known as 'Shankar-Jaikishan'?,Shankar-Jaikishan,Laxmikant-Pyarelal,Kalyanji-Anandji,Jatin-Lalit,India,Music;,Easy
+135,"Who composed the music for the film ""Slumdog Millionaire""?",A.R. Rahman,Vishal-Shekhar,Pritam,Amit Trivedi,India,Music;,Easy
+136,Which Indian classical vocalist is known as the 'Emperor of Music'?,M.S. Subbulakshmi,T.M. Krishna,Balamuralikrishna,Bhimsen Joshi,India,Music;,Medium
+137,"Who sang the famous Bollywood song ""Kabhi Kabhi Mere Dil Mein""?",Mukesh,Kishore Kumar,Mohammad Rafi,Hemant Kumar,India,Music;,Easy
+138,"Which Indian state is renowned for its folk music and dance form, Garba?",Gujarat,Maharashtra,Rajasthan,Punjab,India,Music;,Easy
+139,Who is known as the 'Queen of Melody' in Indian playback singing?,Lata Mangeshkar,Asha Bhosle,Shreya Ghoshal,Alka Yagnik,India,Music;,Easy
+140,Which Indian musical instrument is Bismillah Khan associated with?,Shehnai,Tabla,Sitar,Sarangi,India,Music;,Medium
+141,Which Raga is often played in the early morning?,Bhairav,Yaman,Hamsadhwani,Darbari Kanada,India,Music;,Medium
+142,Who was the first Indian music director to win an Oscar?,A.R. Rahman,Ravi Shankar,Satyajit Ray,Zubin Mehta,India,Music;,Medium
+143,Who is known as the 'Pandit' of Tabla?,Zakir Hussain,Alla Rakha,Anindo Chatterjee,Swapan Chaudhuri,India,Music;,Medium
+144,Who is known as the 'Missile Man of India'?,A.P.J. Abdul Kalam,Homi Bhabha,Vikram Sarabhai,Satish Dhawan,India,FamousPersonalities;History;,Easy
+145,Who was the first woman to become the Prime Minister of India?,Indira Gandhi,Sarojini Naidu,Pratibha Patil,Sucheta Kriplani,India,FamousPersonalities;History;,Easy
+146,Which Indian industrialist founded the Tata Group?,Jamshedji Tata,Dhirubhai Ambani,Ratan Tata,Ghanshyam Das Birla,India,FamousPersonalities;History;,Easy
+147,Who is known as the 'Father of the Indian Nation'?,Mahatma Gandhi,Jawaharlal Nehru,Sardar Patel,B.R. Ambedkar,India,FamousPersonalities;History;,Easy
+148,Who was the first Indian to win a Nobel Prize?,Rabindranath Tagore,C.V. Raman,Mother Teresa,Amartya Sen,India,FamousPersonalities;History;,Easy
+149,Who is the founder of the Indian Space Research Organisation (ISRO)?,Vikram Sarabhai,Satish Dhawan,K. Sivan,A.P.J. Abdul Kalam,India,FamousPersonalities;History;,Easy
+150,"Who is the co-founder of Infosys, one of India's largest IT companies?",Narayana Murthy,Azim Premji,Nandan Nilekani,Shiv Nadar,India,FamousPersonalities;History;,Easy
+151,Which Indian cricketer is known as the 'Little Master'?,Sunil Gavaskar,Sachin Tendulkar,Rahul Dravid,Sourav Ganguly,India,FamousPersonalities;History;,Easy
+152,Who is known as the 'Iron Lady of Manipur'?,Irom Sharmila,Mary Kom,Pramila Devi,Indira Gandhi,India,FamousPersonalities;History;,Medium
+153,Who was the first Indian woman to climb Mount Everest?,Bachendri Pal,Arunima Sinha,Santosh Yadav,Premlata Agarwal,India,FamousPersonalities;History;,Medium
+154,Who is the first Indian actor to win an Academy Award (Oscar)?,Bhanu Athaiya,Satyajit Ray,A.R. Rahman,Resul Pookutty,India,FamousPersonalities;History;,Hard
+155,Who is the author of the famous book 'The God of Small Things'?,Arundhati Roy,Jhumpa Lahiri,Anita Desai,Vikram Seth,India,FamousPersonalities;History;,Medium
+156,Who is known as the 'Tiger of Mysore'?,Tipu Sultan,Haider Ali,Krishnadevaraya,Shivaji Maharaj,India,FamousPersonalities;History;,Easy
+157,Who is the founder of the 'Art of Living' foundation?,Sri Sri Ravi Shankar,Baba Ramdev,Osho,Sadhguru,India,FamousPersonalities;History;,Easy
+158,Who is the first Indian to receive a Nobel Prize in Physics?,C.V. Raman,S.N. Bose,Homi Bhabha,Meghnad Saha,India,FamousPersonalities;History;,Medium
+159,"Who is the chairman of the Adani Group, one of India's largest conglomerates?",Gautam Adani,Mukesh Ambani,Ratan Tata,Kumar Mangalam Birla,India,FamousPersonalities;History;,Easy
+160,Who was the first woman President of India?,Pratibha Patil,Indira Gandhi,Sarojini Naidu,Sucheta Kriplani,India,FamousPersonalities;History;,Easy
+161,Who is known as the 'Father of Indian Cinema'?,Dadasaheb Phalke,Raj Kapoor,Satyajit Ray,Guru Dutt,India,FamousPersonalities;History;,Medium
+162,Who is the first Indian to travel in space?,Rakesh Sharma,Kalpana Chawla,Sunita Williams,Radhakrishnan,India,FamousPersonalities;History;,Medium
+163,"Which Indian city is known as the ""City of Lakes""?",Udaipur,Nainital,Bhopal,Srinagar,India,Tourism;Geography;,Medium
+164,Where is the famous Sun Temple located in India?,Konark,Khajuraho,Hampi,Mahabalipuram,India,Tourism;Geography;,Easy
+165,What is the main attraction of Rann of Kutch in Gujarat?,White Desert,Sand Dunes,Tea Gardens,Wildlife Sanctuaries,India,Tourism;Geography;,Easy
+166,Where is the Valley of Flowers National Park located?,Uttarakhand,Himachal Pradesh,Jammu & Kashmir,Sikkim,India,Tourism;Geography;,Medium
+167,Which city is famous for its Golden Temple?,Amritsar,Varanasi,Jaipur,Ahmedabad,India,Tourism;Geography;,Easy
+168,What is the capital city of the Union Territory of Andaman and Nicobar Islands?,Port Blair,Daman,Lakshadweep,Silvassa,India,Tourism;Geography;,Easy
+169,Which Indian state is known for the festival of Bihu?,Assam,West Bengal,Odisha,Bihar,India,Tourism;Geography;,Medium
+170,Which place in India is famous for its tea gardens?,Darjeeling,Ooty,Munnar,Coorg,India,Tourism;Geography;,Medium
+171,Where is the UNESCO World Heritage site 'Ellora Caves' located?,Maharashtra,Karnataka,Madhya Pradesh,Andhra Pradesh,India,Tourism;Geography;,Easy
+172,"Which Indian city is known as the ""Pink City""?",Jaipur,Jodhpur,Udaipur,Bikaner,India,Tourism;Geography;,Easy
+173,Which Indian state is home to the Sundarbans mangrove forest?,West Bengal,Odisha,Andhra Pradesh,Tamil Nadu,India,Tourism;Geography;,Easy
+174,What is the primary attraction of Hampi in Karnataka?,Ancient Ruins,Beaches,Backwaters,Wildlife,India,Tourism;Geography;,Easy
+175,"Which Indian state is known as the ""Land of the Rising Sun""?",Arunachal Pradesh,Assam,Manipur,Sikkim,India,Tourism;Geography;,Medium
+176,Which river flows through the city of Varanasi?,Ganges,Yamuna,Narmada,Godavari,India,Tourism;Geography;,Easy
+177,Where is the Gateway of India located?,Mumbai,New Delhi,Kolkata,Chennai,India,Tourism;Geography;,Easy
+178,Which fort in India is famous for the Palace of Mirrors?,Amber Fort,Mehrangarh Fort,Golconda Fort,Agra Fort,India,Tourism;Geography;,Medium
+179,Which Indian state is famous for the Hornbill Festival?,Nagaland,Meghalaya,Mizoram,Tripura,India,Tourism;Geography;,Medium
+180,"Who is known as the ""Father of the Indian Constitution""?",Dr. B.R. Ambedkar,Mahatma Gandhi,Jawaharlal Nehru,Sardar Patel,India,Civics;,Easy
+181,What is the maximum strength of the Lok Sabha?,552,545,550,555,India,Civics;,Easy
+182,Who appoints the Chief Justice of India?,The President,The Prime Minister,The Parliament,The Law Minister,India,Civics;,Medium
+183,Which Article of the Indian Constitution deals with the Right to Equality?,Article 14,Article 21,Article 19,Article 32,India,Civics;,Medium
+184,What is the term length for a member of the Rajya Sabha?,6 years,5 years,4 years,2 years,India,Civics;,Medium
+185,Which constitutional body is responsible for the conduct of elections in India?,Election Commission of India,Supreme Court of India,Parliament,Union Public Service Commission,India,Civics;,Easy
+186,What is the minimum age requirement to become a member of the Lok Sabha?,25 years,30 years,35 years,21 years,India,Civics;,Medium
+187,Who was the first female Speaker of the Lok Sabha?,Meira Kumar,Sumitra Mahajan,Sarojini Naidu,Indira Gandhi,India,Civics;,Hard
+188,What is the primary function of the Judiciary in India?,Interpret and uphold the Constitution,Make laws,Enforce laws,Execute policies,India,Civics;,Medium
+189,Who is the head of the executive branch in India?,The President,The Prime Minister,The Chief Justice,The Governor,India,Civics;,Easy
+190,Which body is responsible for approving the budget in India?,Parliament,Supreme Court,President,Election Commission,India,Civics;,Medium
+191,Which fundamental right is guaranteed under Article 21 of the Indian Constitution?,Right to Life,Right to Freedom,Right to Equality,Right to Education,India,Civics;,Medium
+192,How many members can the President nominate to the Rajya Sabha?,12,10,14,8,India,Civics;,Hard
+193,Who presides over the joint sitting of the Parliament of India?,The Speaker of the Lok Sabha,The President,The Prime Minister,The Vice-President,India,Civics;,Hard
+194,Which body advises the President on the appointment of judges to the Supreme Court?,Collegium,Cabinet,Parliament,Election Commission,India,Civics;,Hard
+195,What is the role of the Finance Commission in India?,Recommend financial distribution between the Center and States,Audit government expenditures,Plan economic policies,Conduct monetary policy,India,Civics;,Medium
+196,Who is the Supreme Commander of the Armed Forces in India?,The President,The Prime Minister,The Defense Minister,The Chief of Defense Staff,India,Civics;,Medium
+197,What is the tenure of the Vice President of India?,5 years,4 years,6 years,7 years,India,Civics;,Easy
+198,Which article in the Indian Constitution provides for the imposition of President's rule in a state?,Article 356,Article 352,Article 360,Article 370,India,Civics;,Hard
+199,What is the main purpose of the Public Accounts Committee in the Parliament?,Examine government expenditure,Formulate government policies,Draft laws,Handle judiciary matters,India,Civics;,Hard
+200,Who is the current Speaker of the House of Representatives (as of 2024)?,Mike Johnson,Kevin McCarthy,Nancy Pelosi,Hakeem Jeffries,USA,Politics;,Medium
+201,Which amendment to the U.S. Constitution gives citizens the right to bear arms?,Second Amendment,First Amendment,Third Amendment,Fourth Amendment,USA,Politics;,Easy
+202,Who has the power to veto bills passed by Congress?,The President,The Vice President,The Speaker of the House,The Chief Justice,USA,Politics;,Medium
+203,Which U.S. state has the most electoral votes in presidential elections?,California,Texas,Florida,New York,USA,Politics;,Hard
+204,Who is the current Senate Majority Leader (as of 2024)?,Chuck Schumer,Mitch McConnell,Nancy Pelosi,Kevin McCarthy,USA,Politics;,Medium
+205,Who was the first U.S. President to be impeached?,Andrew Johnson,Richard Nixon,Bill Clinton,Donald Trump,USA,Politics;,Hard
+206,How many justices are on the U.S. Supreme Court?,Nine,Seven,Eleven,Eight,USA,Politics;,Easy
+207,What is the minimum age requirement to be President of the United States?,35 years,30 years,40 years,45 years,USA,Politics;,Medium
+208,Which landmark Supreme Court case legalized same-sex marriage in the United States?,Obergefell v. Hodges,Roe v. Wade,Brown v. Board of Education,Plessy v. Ferguson,USA,Politics;,Hard
+209,Who is the current Secretary of State (as of 2024)?,Antony Blinken,Mike Pompeo,John Kerry,Hillary Clinton,USA,Politics;,Medium
+210,What is the name of the first African American woman to be elected to the U.S. Senate?,Carol Moseley Braun,Kamala Harris,Shirley Chisholm,Condoleezza Rice,USA,Politics;,Hard
+211,Which constitutional amendment abolished slavery in the United States?,Thirteenth Amendment,Fourteenth Amendment,Fifteenth Amendment,Twelfth Amendment,USA,Politics;,Medium
+212,What is the term length for a U.S. Senator?,Six years,Four years,Two years,Eight years,USA,Politics;,Easy
+213,Who appoints the Justices of the Supreme Court?,The President,The Senate,The Chief Justice,The Vice President,USA,Politics;,Medium
+214,Which U.S. President served the shortest term?,William Henry Harrison,James Garfield,Zachary Taylor,Warren G. Harding,USA,Politics;,Hard
+215,What is the primary role of the Federal Reserve?,Regulate monetary policy,Collect taxes,Enforce federal laws,Conduct elections,USA,Politics;,Medium
+216,Which act was signed into law to combat climate change during President Biden's administration?,Inflation Reduction Act,Green New Deal,Paris Agreement,Clean Power Plan,USA,Politics;,Hard
+217,Who is the first woman to serve as Vice President of the United States?,Kamala Harris,Hillary Clinton,Sarah Palin,Geraldine Ferraro,USA,Politics;,Medium
+218,Which amendment to the U.S. Constitution provides for the direct election of Senators?,Seventeenth Amendment,Sixteenth Amendment,Fifteenth Amendment,Nineteenth Amendment,USA,Politics;,Hard
+219,What is the highest court in the United States?,The Supreme Court,The Court of Appeals,The Federal Court,The District Court,USA,Politics;,Easy
+220,Who was the first President of the United States?,George Washington,Thomas Jefferson,John Adams,James Madison,USA,History;,Easy
+221,Which document declared the American colonies' independence from Britain?,The Declaration of Independence,The Constitution,The Bill of Rights,The Articles of Confederation,USA,History;,Medium
+222,"What year did the U.S. stock market crash, leading to the Great Depression?",1929,1933,1919,1941,USA,History;,Hard
+223,Who was the President of the Confederate States during the American Civil War?,Jefferson Davis,Abraham Lincoln,Ulysses S. Grant,Robert E. Lee,USA,History;,Medium
+224,What was the primary cause of the American Civil War?,Slavery,Economic differences,State rights,Territorial expansion,USA,History;,Easy
+225,Who was the U.S. President during the Louisiana Purchase?,Thomas Jefferson,James Madison,John Adams,Andrew Jackson,USA,History;,Hard
+226,Which U.S. state was the last to join the Union?,Hawaii,Alaska,Arizona,New Mexico,USA,History;,Medium
+227,What was the first capital of the United States?,Philadelphia,New York,Boston,"Washington, D.C.",USA,History;,Easy
+228,Who was the only U.S. President to resign from office?,Richard Nixon,Bill Clinton,Andrew Johnson,Gerald Ford,USA,History;,Hard
+229,Which President issued the Emancipation Proclamation?,Abraham Lincoln,Andrew Johnson,Ulysses S. Grant,James Buchanan,USA,History;,Medium
+230,What was the first permanent English colony in America?,Jamestown,Plymouth,Roanoke,Charleston,USA,History;,Hard
+231,"Who was the leader of the civil rights movement known for his ""I Have a Dream"" speech?",Martin Luther King Jr.,Malcolm X,Rosa Parks,Thurgood Marshall,USA,History;,Medium
+232,Which U.S. President signed the Social Security Act into law?,Franklin D. Roosevelt,Harry S. Truman,Herbert Hoover,Dwight D. Eisenhower,USA,History;,Hard
+233,What major event brought the United States into World War II?,The attack on Pearl Harbor,The fall of France,The invasion of Poland,The sinking of the Lusitania,USA,History;,Medium
+234,What was the primary goal of the Lewis and Clark Expedition?,Explore and map the western territory,Establish trade with Native Americans,Find a route to the Pacific Ocean,Collect scientific data,USA,History;,Easy
+235,Who was the author of the Declaration of Independence?,Thomas Jefferson,Benjamin Franklin,John Adams,James Madison,USA,History;,Medium
+236,In which year was the U.S. Constitution ratified?,1788,1776,1783,1791,USA,History;,Hard
+237,Who was the first Secretary of the Treasury of the United States?,Alexander Hamilton,Thomas Jefferson,John Jay,James Monroe,USA,History;,Medium
+238,What landmark Supreme Court case established judicial review in the United States?,Marbury v. Madison,McCulloch v. Maryland,Gibbons v. Ogden,Dred Scott v. Sandford,USA,History;,Hard
+239,Who was the leader of the American Revolutionary Army?,George Washington,Benedict Arnold,Thomas Paine,John Hancock,USA,History;,Easy
+240,"Who directed the epic science fiction film ""2001: A Space Odyssey""?",Stanley Kubrick,Ridley Scott,Steven Spielberg,George Lucas,USA,Hollywood,Medium
+241,"Which actor played the character Jack Dawson in ""Titanic""?",Leonardo DiCaprio,Brad Pitt,Johnny Depp,Tom Cruise,USA,Hollywood,Easy
+242,Which film won the first Academy Award for Best Picture in 1929?,Wings,The Jazz Singer,Sunrise,The Broadway Melody,USA,Hollywood,Hard
+243,"Who is known as the ""Master of Suspense"" in Hollywood?",Alfred Hitchcock,Steven Spielberg,Martin Scorsese,Quentin Tarantino,USA,Hollywood,Medium
+244,"Which actress won the Academy Award for Best Actress for her role in ""The Iron Lady""?",Meryl Streep,Julia Roberts,Nicole Kidman,Cate Blanchett,USA,Hollywood,Medium
+245,Which movie marked the first appearance of the character Indiana Jones?,Raiders of the Lost Ark,Temple of Doom,The Last Crusade,Kingdom of the Crystal Skull,USA,Hollywood,Hard
+246,Who played the character of Tony Stark in the Marvel Cinematic Universe?,Robert Downey Jr.,Chris Evans,Mark Ruffalo,Chris Hemsworth,USA,Hollywood,Easy
+247,"What is the name of the fictional African nation in ""Black Panther""?",Wakanda,Zamunda,Narnia,Gondor,USA,Hollywood,Medium
+248,"Which director is known for the ""Dollars Trilogy"" of Spaghetti Westerns?",Sergio Leone,John Ford,Sam Peckinpah,Clint Eastwood,USA,Hollywood,Hard
+249,"Who composed the iconic score for ""Star Wars""?",John Williams,Hans Zimmer,Ennio Morricone,James Horner,USA,Hollywood,Medium
+250,"Which actress starred as Ripley in the ""Alien"" film series?",Sigourney Weaver,Linda Hamilton,Jodie Foster,Jamie Lee Curtis,USA,Hollywood,Hard
+251,"Which film features the line ""Here's looking at you, kid""?",Casablanca,Gone with the Wind,The Godfather,Citizen Kane,USA,Hollywood,Medium
+252,What is the highest-grossing film of all time (as of 2024)?,Avatar,Avengers: Endgame,Titanic,Star Wars: The Force Awakens,USA,Hollywood,Easy
+253,"Who played the lead role in the film ""Forrest Gump""?",Tom Hanks,Robin Williams,Kevin Costner,Harrison Ford,USA,Hollywood,Medium
+254,"Which director is known for the films ""Pulp Fiction"" and ""Kill Bill""?",Quentin Tarantino,Guy Ritchie,David Fincher,Paul Thomas Anderson,USA,Hollywood,Hard
+255,"What was the name of the computer in ""2001: A Space Odyssey""?",HAL 9000,Skynet,JARVIS,GLaDOS,USA,Hollywood,Medium
+256,"Who played Neo in the ""Matrix"" film series?",Keanu Reeves,Matt Damon,Johnny Depp,Christian Bale,USA,Hollywood,Easy
+257,"Which film is known for the line ""I am big! It's the pictures that got small.""?",Sunset Boulevard,Singin' in the Rain,All About Eve,Rebel Without a Cause,USA,Hollywood,Hard
+258,"Which actor voiced Darth Vader in the original ""Star Wars"" trilogy?",James Earl Jones,Peter Cushing,Alec Guinness,David Prowse,USA,Hollywood,Medium
+259,"Who directed the film ""Schindler's List""?",Steven Spielberg,Roman Polanski,Francis Ford Coppola,Oliver Stone,USA,Hollywood,Hard
+260,What is the capital of the United States?,"Washington, D.C.",New York,Los Angeles,Chicago,USA,Geography;,Easy
+261,"Which U.S. state is known as the ""Sunshine State""?",Florida,California,Texas,Arizona,USA,Geography;,Medium
+262,What is the largest lake in the United States by surface area?,Lake Superior,Lake Michigan,Lake Huron,Lake Erie,USA,Geography;,Hard
+263,Which river is the longest in the United States?,Missouri River,Mississippi River,Colorado River,Ohio River,USA,Geography;,Medium
+264,What is the tallest mountain in North America?,Denali,Mount Whitney,Mount Elbert,Mount Rainier,USA,Geography;,Easy
+265,In which state is the Grand Canyon located?,Arizona,Utah,Nevada,Colorado,USA,Geography;,Hard
+266,Which U.S. state has the longest coastline?,Alaska,California,Florida,Hawaii,USA,Geography;,Medium
+267,What is the name of the island that houses the Statue of Liberty?,Liberty Island,Ellis Island,Manhattan Island,Governors Island,USA,Geography;,Easy
+268,Which U.S. state is home to the Great Smoky Mountains National Park?,Tennessee,North Carolina,Virginia,Georgia,USA,Geography;,Hard
+269,What is the name of the largest desert in the United States?,Great Basin Desert,Mojave Desert,Sonoran Desert,Chihuahuan Desert,USA,Geography;,Medium
+270,"Which state is known as the ""Land of 10,000 Lakes""?",Minnesota,Wisconsin,Michigan,Idaho,USA,Geography;,Hard
+271,Which U.S. state is the only one composed entirely of islands?,Hawaii,Alaska,Rhode Island,Florida,USA,Geography;,Medium
+272,What is the smallest state in the United States by area?,Rhode Island,Delaware,Connecticut,New Jersey,USA,Geography;,Easy
+273,Which river forms part of the border between Texas and Mexico?,Rio Grande,Colorado River,Pecos River,Arkansas River,USA,Geography;,Hard
+274,What is the name of the major fault line in California known for earthquakes?,San Andreas Fault,Cascadia Subduction Zone,Hayward Fault,Newport-Inglewood Fault,USA,Geography;,Medium
+275,"Which state is home to the largest volcano in the U.S., Mauna Loa?",Hawaii,Washington,Oregon,California,USA,Geography;,Hard
+276,What is the capital of Texas?,Austin,Dallas,Houston,San Antonio,USA,Geography;,Medium
+277,Which U.S. state has the highest average elevation?,Colorado,Utah,Nevada,Wyoming,USA,Geography;,Hard
+278,"Which river is known as the ""Mighty Mississippi""?",Mississippi River,Missouri River,Ohio River,Tennessee River,USA,Geography;,Medium
+279,Which U.S. state is known for its potatoes?,Idaho,Iowa,Nebraska,Montana,USA,Geography;,Easy
+280,"Who is known as the ""King of Pop""?",Michael Jackson,Elvis Presley,Prince,Justin Timberlake,USA,Music;,Easy
+281,"Which artist released the album ""Lemonade"" in 2016?",Beyoncé,Rihanna,Taylor Swift,Lady Gaga,USA,Music;,Medium
+282,What was the first music video played on MTV?,"""Video Killed the Radio Star"" by The Buggles","""Thriller"" by Michael Jackson","""Like a Virgin"" by Madonna","""Billie Jean"" by Michael Jackson",USA,Music;,Hard
+283,"Who is the lead singer of the band ""Nirvana""?",Kurt Cobain,Eddie Vedder,Chris Cornell,Dave Grohl,USA,Music;,Medium
+284,"Which artist is known for the hit song ""Born in the USA""?",Bruce Springsteen,Billy Joel,John Mellencamp,Bob Dylan,USA,Music;,Easy
+285,Who was the first female artist to be inducted into the Rock and Roll Hall of Fame?,Aretha Franklin,Janis Joplin,Tina Turner,Joan Baez,USA,Music;,Hard
+286,Which American artist won the Nobel Prize in Literature in 2016?,Bob Dylan,Leonard Cohen,Paul Simon,Bruce Springsteen,USA,Music;,Medium
+287,What is the best-selling album of all time in the USA?,"""Thriller"" by Michael Jackson","""Back in Black"" by AC/DC","""The Dark Side of the Moon"" by Pink Floyd","""The Wall"" by Pink Floyd",USA,Music;,Medium
+288,Who was the original drummer for The Beatles before Ringo Starr?,Pete Best,Stuart Sutcliffe,Richard Starkey,Brian Epstein,USA,Music;,Hard
+289,"Which artist is known for the song ""Purple Rain""?",Prince,David Bowie,Freddie Mercury,Elton John,USA,Music;,Easy
+290,Who is the youngest artist to win the Grammy for Album of the Year?,Billie Eilish,Taylor Swift,Adele,Lorde,USA,Music;,Hard
+291,"Which song by The Eagles is famous for the line ""You can check out anytime you like, but you can never leave""?","""Hotel California""","""Desperado""","""Take It Easy""","""Life in the Fast Lane""",USA,Music;,Medium
+292,"What band was originally named ""The New Yardbirds""?",Led Zeppelin,The Who,The Rolling Stones,Cream,USA,Music;,Hard
+293,Who is the best-selling female artist of all time in the USA?,Madonna,Whitney Houston,Mariah Carey,Celine Dion,USA,Music;,Medium
+294,"Which artist had a hit with the song ""Shake It Off""?",Taylor Swift,Katy Perry,Ariana Grande,Selena Gomez,USA,Music;,Easy
+295,What was the first rap song to reach number one on the Billboard Hot 100?,"""Ice Ice Baby"" by Vanilla Ice","""Fight the Power"" by Public Enemy","""U Can't Touch This"" by MC Hammer","""Rapper's Delight"" by Sugarhill Gang",USA,Music;,Hard
+296,"Which artist is known as the ""Queen of Soul""?",Aretha Franklin,Whitney Houston,Diana Ross,Tina Turner,USA,Music;,Medium
+297,What was the first opera performed in the United States?,"""La Serva Padrona""","""Madama Butterfly""","""The Barber of Seville""","""Don Giovanni""",USA,Music;,Hard
+298,"Who performed the famous guitar solo in ""Stairway to Heaven""?",Jimmy Page,Eric Clapton,Jimi Hendrix,Keith Richards,USA,Music;,Easy
+299,"Which American singer-songwriter is known for the song ""Fire and Rain""?",James Taylor,John Denver,Paul Simon,Carole King,USA,Music;,Medium
+300,Who is the all-time leading scorer in NBA history (as of 2024)?,LeBron James,Kareem Abdul-Jabbar,Michael Jordan,Kobe Bryant,USA,Sports;,Easy
+301,Which NFL team has won the most Super Bowls?,Pittsburgh Steelers,New England Patriots,Dallas Cowboys,San Francisco 49ers,USA,Sports;,Medium
+302,Who was the first African American to win the U.S. Open in tennis?,Arthur Ashe,Althea Gibson,Serena Williams,Venus Williams,USA,Sports;,Hard
+303,What is the maximum score possible in a single frame of ten-pin bowling?,30,20,40,50,USA,Sports;,Medium
+304,"Which baseball player is known as the ""Sultan of Swat""?",Babe Ruth,Hank Aaron,Lou Gehrig,Mickey Mantle,USA,Sports;,Easy
+305,Who was the first woman to run the Boston Marathon officially?,Kathrine Switzer,Billie Jean King,Florence Griffith Joyner,Wilma Rudolph,USA,Sports;,Hard
+306,What year did the USA host the Summer Olympics in Atlanta?,1996,1984,1976,2000,USA,Sports;,Medium
+307,Who holds the record for the most home runs in a single MLB season?,Barry Bonds,Mark McGwire,Babe Ruth,Sammy Sosa,USA,Sports;,Medium
+308,What team won the first Super Bowl?,Green Bay Packers,Kansas City Chiefs,New York Giants,Chicago Bears,USA,Sports;,Easy
+309,Who was the first U.S. athlete to win gold medals in both Summer and Winter Olympics?,Eddie Eagan,Bonnie Blair,Shaun White,Apolo Ohno,USA,Sports;,Hard
+310,"Which golf tournament is known as ""The Masters""?",Augusta National,U.S. Open,PGA Championship,The Open Championship,USA,Sports;,Medium
+311,Who was the first woman inducted into the Basketball Hall of Fame?,Lusia Harris,Cheryl Miller,Ann Meyers,Nancy Lieberman,USA,Sports;,Hard
+312,What city is home to the oldest continuously operating sports franchise in the U.S.?,Cincinnati,New York,Boston,Chicago,USA,Sports;,Medium
+313,"Who won the ""Battle of the Sexes"" tennis match in 1973?",Billie Jean King,Bobby Riggs,Chris Evert,Martina Navratilova,USA,Sports;,Easy
+314,Which American swimmer holds the record for the most Olympic gold medals?,Michael Phelps,Mark Spitz,Ryan Lochte,Katie Ledecky,USA,Sports;,Hard
+315,What is the name of the annual championship game of college football?,College Football Playoff National Championship,Rose Bowl,Sugar Bowl,Fiesta Bowl,USA,Sports;,Medium
+316,Who is the youngest player ever to be drafted into the NBA?,Andrew Bynum,Kobe Bryant,LeBron James,Kevin Garnett,USA,Sports;,Hard
+317,"Which American boxer was known as ""The Greatest""?",Muhammad Ali,Mike Tyson,Joe Frazier,George Foreman,USA,Sports;,Medium
+318,"Who is known as ""The Great One"" in hockey?",Wayne Gretzky,Bobby Orr,Gordie Howe,Mario Lemieux,USA,Sports;,Easy
+319,Which American track and field athlete won four gold medals in the 1936 Berlin Olympics?,Jesse Owens,Carl Lewis,Jim Thorpe,Wilma Rudolph,USA,Sports;,Hard
+320,Which company is the largest retailer in the United States?,Walmart,Amazon,Costco,Target,USA,Industries;,Medium
+321,What is the primary industry of the company Berkshire Hathaway?,Conglomerate,Financial Services,Real Estate,Technology,USA,Industries;,Hard
+322,Who is the founder of Amazon?,Jeff Bezos,Bill Gates,Elon Musk,Mark Zuckerberg,USA,Industries;,Medium
+323,What is the main product of The Coca-Cola Company?,Soft Drinks,Bottled Water,Juices,Snacks,USA,Industries;,Easy
+324,Which American company is the leading producer of semiconductors?,Intel,AMD,Qualcomm,Texas Instruments,USA,Industries;,Hard
+325,"Who is the CEO of Tesla, Inc. as of 2024?",Elon Musk,Tim Cook,Sundar Pichai,Jeff Bezos,USA,Industries;,Medium
+326,Which company is known for its iPhone and Mac computers?,Apple,Microsoft,Google,Samsung,USA,Industries;,Medium
+327,What is the main business of the company Johnson & Johnson?,Pharmaceuticals and Consumer Health,Aerospace,Automobiles,Financial Services,USA,Industries;,Hard
+328,Which company is the largest aerospace manufacturer in the USA?,Boeing,Lockheed Martin,Northrop Grumman,Raytheon,USA,Industries;,Medium
+329,Who founded the electric car company Tesla?,Elon Musk,Steve Jobs,Henry Ford,Larry Page,USA,Industries;,Easy
+330,Which American company is the largest producer of renewable energy?,NextEra Energy,Duke Energy,Dominion Energy,Exelon,USA,Industries;,Hard
+331,What industry is General Electric primarily involved in?,Energy and Appliances,Automotive,Technology,Retail,USA,Industries;,Medium
+332,Which company is the largest manufacturer of microchips in the USA?,Intel,NVIDIA,Broadcom,AMD,USA,Industries;,Hard
+333,What is the primary product of the company ExxonMobil?,Oil and Gas,Chemicals,Pharmaceuticals,Electronics,USA,Industries;,Medium
+334,Who is the founder of the media company Bloomberg L.P.?,Michael Bloomberg,Rupert Murdoch,Ted Turner,Walt Disney,USA,Industries;,Hard
+335,Which American company is the largest coffeehouse chain in the world?,Starbucks,Dunkin',McCafe,Coffee Bean & Tea Leaf,USA,Industries;,Medium
+336,What is the main industry of the company Caterpillar Inc.?,Construction Equipment,Aerospace,Food and Beverages,Pharmaceuticals,USA,Industries;,Hard
+337,Who is the founder of Microsoft?,Bill Gates,Steve Jobs,Larry Ellison,Sergey Brin,USA,Industries;,Easy
+338,Which company is known for its fast-food chain specializing in burgers?,McDonald's,KFC,Taco Bell,Domino's,USA,Industries;,Medium
+339,What is the main industry of the company Salesforce?,Cloud-based Software,Automotive,Consumer Electronics,Pharmaceuticals,USA,Industries;,Hard
+340,Who was the first President of the United States?,George Washington,Thomas Jefferson,John Adams,James Madison,USA,FamousPersonalities;History;,Easy
+341,"Who wrote the famous speech ""I Have a Dream""?",Martin Luther King Jr.,Malcolm X,Rosa Parks,Thurgood Marshall,USA,FamousPersonalities;History;,Medium
+342,Who was the first woman to fly solo across the Atlantic Ocean?,Amelia Earhart,Sally Ride,Bessie Coleman,Jacqueline Cochran,USA,FamousPersonalities;History;,Hard
+343,Who is the founder of SpaceX?,Elon Musk,Jeff Bezos,Richard Branson,Bill Gates,USA,FamousPersonalities;History;,Medium
+344,"Who is known as the ""Father of the Constitution""?",James Madison,George Washington,Thomas Jefferson,John Jay,USA,FamousPersonalities;History;,Easy
+345,"Which American author wrote ""The Catcher in the Rye""?",J.D. Salinger,Ernest Hemingway,F. Scott Fitzgerald,Mark Twain,USA,FamousPersonalities;History;,Hard
+346,Who was the first African American President of the United States?,Barack Obama,Jesse Jackson,Martin Luther King Jr.,Al Sharpton,USA,FamousPersonalities;History;,Medium
+347,Who is the co-founder of Microsoft?,Bill Gates,Steve Jobs,Larry Ellison,Mark Zuckerberg,USA,FamousPersonalities;History;,Easy
+348,Which American industrialist is known for revolutionizing the automobile industry with the assembly line?,Henry Ford,Thomas Edison,John D. Rockefeller,Andrew Carnegie,USA,FamousPersonalities;History;,Medium
+349,Who was the first woman to serve on the U.S. Supreme Court?,Sandra Day O'Connor,Ruth Bader Ginsburg,Sonia Sotomayor,Elena Kagan,USA,FamousPersonalities;History;,Hard
+350,Who is the CEO of Berkshire Hathaway?,Warren Buffett,Jeff Bezos,Bill Gates,Elon Musk,USA,FamousPersonalities;History;,Medium
+351,"Who is known as the ""King of Rock and Roll""?",Elvis Presley,Michael Jackson,Buddy Holly,Chuck Berry,USA,FamousPersonalities;History;,Easy
+352,Who was the first African American woman to win the Nobel Prize for Literature?,Toni Morrison,Maya Angelou,Alice Walker,Zora Neale Hurston,USA,FamousPersonalities;History;,Hard
+353,Who is the founder of the Virgin Group?,Richard Branson,Jeff Bezos,Mark Cuban,Larry Page,USA,FamousPersonalities;History;,Medium
+354,Who was the primary author of the Declaration of Independence?,Thomas Jefferson,George Washington,Benjamin Franklin,John Adams,USA,FamousPersonalities;History;,Easy
+355,Which American scientist is known for developing the polio vaccine?,Jonas Salk,Albert Sabin,Louis Pasteur,Robert Koch,USA,FamousPersonalities;History;,Hard
+356,Who was the first African American Secretary of State?,Colin Powell,Condoleezza Rice,Thurgood Marshall,John Lewis,USA,FamousPersonalities;History;,Medium
+357,Who was the first female African American astronaut to go into space?,Mae Jemison,Sally Ride,Bessie Coleman,Ellen Ochoa,USA,FamousPersonalities;History;,Hard
+358,"Who is known as the ""Father of the American Revolution""?",Samuel Adams,Thomas Paine,Paul Revere,Patrick Henry,USA,FamousPersonalities;History;,Medium
+359,Who is the current CEO of Apple (as of 2024)?,Tim Cook,Steve Jobs,Jeff Bezos,Sundar Pichai,USA,FamousPersonalities;History;,Easy

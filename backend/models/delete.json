@@ -1,0 +1,27 @@
+{
+  "_id": { "$oid": "665f637e40aa2fd878900561" },
+  "question_id": 1,
+  "question_title": "Who is the first president of India",
+  "region": "India",
+  "topic": "History",
+  "answers": [
+    {
+      "text": "Rajendra Prasad",
+      "is_correct": true
+    },
+    {
+      "text": "Jawaharlal Nehru",
+      "is_correct": false
+    },
+    {
+      "text": "Mahatma Gandhi",
+      "is_correct": false
+    },
+    {
+      "text": "Bhim Rao Ambedkar",
+      "is_correct": false
+    }
+  ],
+  "level": 1,
+  "class_grade": 4
+}

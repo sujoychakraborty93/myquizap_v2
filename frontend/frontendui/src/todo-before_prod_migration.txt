@@ -1,4 +1,0 @@
-1. In backend -> index.js -> /api/login -> res.cookie(COOKIE_NAME, token, { httpOnly: true, sameSite: 'strict', secure: false });
-=> change secure to 'true' for https
-
-2. 

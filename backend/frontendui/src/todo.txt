@@ -1,0 +1,28 @@
+Test 
+1) change expiry of token to 1 min and then test if all pages are workig as expected. like playnow, load questions etc.
+
+Security:
+1) local storage should not store all data? is this possible? i think i am using localstorage to keep 
+persistent data when page is refreshed. 
+2) check local storage after tab is closed and new tab is opened 
+
+Phase 2 - 
+1) email verification onregistration 
+2) emaail verification on forgot password 
+3) on Profile page, allow users to change email. Add email verification.
+4) On Profile page allow users to change password 
+5) Add option to reset score of a user form Profile 
+6) Enable a 'guest' to play and keep score. 
+7) 1st - a user should not get the same question in current session 
+8) when page is refreshed, user profile becomes empty - DONE
+9) on Header menu items, highloight the page you are on already. 
+10) On header memu, whn user hovers over a particular menu item, do a background color change of the menu item
+11) when token expires, execute all functionalities in 'logout' page
+12) User score should be saved in backend after every 20 questions loaded. 
+13) Put a filter for Hard, Medium, Easy
+14) modal for 'match' mode vs 'practice' mode. Match mode means disable already answered question and highlight the correct answer as well as the answer provided by user. 
+
+Phase 3 - 
+7) Enable an admin to be able to change, update userscore, 
+8) Enable a user to upload questions using excel 
+9) add a functionality for a user to host a quiz for his team 

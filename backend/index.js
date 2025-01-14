@@ -1,5 +1,5 @@
 import express, { json } from "express";
-import {PORT, mongodbURL, SESSION_SECRET_KEY, JWT_SECRET_KEY, ORIGIN} from "./config.js";
+import {PORT, mongodbURL, SESSION_SECRET_KEY, JWT_SECRET_KEY, ORIGIN, NODE_ENV} from "./config.js";
 import mongoose from "mongoose";
 import cookieParser from "cookie-parser";
 import bcrypt from 'bcryptjs';
@@ -23,14 +23,17 @@ const COOKIE_NAME = 'auth_token';
 // -- use for prod build start
 import path from "path"; 
 const _dirname = path.dirname("");
-const buildpath = path.join(_dirname, "../frontend/frontendui/build")
-app.use(express.static(buildpath))
+const buildpath = path.join(_dirname, "/frontendui/build")
+if (NODE_ENV == "PROD") {
+    app.use(express.static(buildpath))
+}
 // -- use for prod build end
 
 app.use(express.json());
 // app.use(cors({credentials: true, origin: true}))
 app.use(cors({
     origin: ORIGIN,
+    // origin: "http://localhost:3000", // 3000 for dev
     credentials: true
 }));
 app.use(bodyParser.json());

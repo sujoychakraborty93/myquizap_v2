@@ -29,6 +29,8 @@ if (NODE_ENV == "PROD") {
 }
 // -- use for prod build end
 
+
+
 app.use(express.json());
 // app.use(cors({credentials: true, origin: true}))
 app.use(cors({
@@ -46,7 +48,6 @@ app.use(session({
     cookie: { maxAge: 60000 }    // Session cookie will expire in 1 minute for demonstration purposes
 }));
 
-// app.use('/score', scoreRoutes);
 var skip = 0;
 const limit = 20;
 var ct = 0;
@@ -176,7 +177,7 @@ app.get('/api/check-auth', (req, res) => {
 
     try {
         const user = jwt.verify(token, JWT_SECRET_KEY);
-        // console.log("in check-auth, got user: ", user)
+        console.log("in check-auth, got user: ", user)
         res.json({ loggedIn: true, user });
     } catch (error) {
         res.status(500).json({ loggedIn: false });
@@ -246,7 +247,7 @@ app.get('/api/user', verifyToken, async (req, res) => {
         res.status(200).json(user);
     } catch (error) {
         console.error(error);
-        res.status(500).json({ message: 'Server error during user search' });
+        res.status(601).json({ message: 'Server error during user search' });
     }
 });
 
@@ -268,13 +269,14 @@ app.post('/api/queslog', async (req, res) => {
 // get all topics from topic table
 app.get('/api/topics', async (req, res) => {
     try {
+        console.log("/api/topics in the act ")
         const topics = await topicModel.find({});
-        // console.log("/api/topics checking count of execution: ", ct)
+        console.log("/api/topics checking count of execution: ", ct)
         ct += 1
         res.status(200).json(topics)
     }
     catch(error) {
-        res.json("error in /api/topic/s: ", error)
+        res.status(600).json("error in /api/topic/s: ", error)
     }
 });
 
@@ -285,7 +287,7 @@ app.get('/api/regions', async (req, res) => {
         res.status(200).json(regions)
     }
     catch(error) {
-        res.json("error in /api/regions/: ", error)
+        res.status(603).json("error in /api/regions/: ", error)
     }
 });
 
@@ -341,6 +343,12 @@ app.get('/reset', (req, res) => {
 // const q = await quizQuestionModel.find({
 //     $and: [{$or: [{topic: {$in: [topic] }}, {qty :{$gt: 50}}]},
 //       {$or: [{region: region}, {price: {$lt: 5 }}]}]})
+
+if (NODE_ENV == "PROD") {
+    app.get('*', (req, res) => {
+        res.sendFile('/frontendui/build/index.html', { root: '.' })
+    })
+}
 
 app.listen(PORT, () => {
     console.log(`listening to Port: ${PORT}`);

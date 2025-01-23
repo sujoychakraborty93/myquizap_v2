@@ -36,44 +36,57 @@ const Playnow = () => {
   //   }
   //   return shuffledArray;
   // };
+  const fetchInitialData = async () => {
+    const topicsResponse = await api.get('/topics');
+    const regionsResponse = await api.get('/regions');
+    dispatch(setTopics(topicsResponse.data));
+    dispatch(setRegions(regionsResponse.data));
+  };
   
-  useEffect(() => {
-    const fetchInitialData = async () => {
-      const topicsResponse = await api.get('/topics');
-      const regionsResponse = await api.get('/regions');
-      dispatch(setTopics(topicsResponse.data));
-      console.log("PlayNow.js -> after dispatch of topcis")
-      dispatch(setRegions(regionsResponse.data));
-    };
-    // if page refresh, dont execute api 
-    const hasTopicsRegionsRendered = sessionStorage.getItem('hasTopicsRegionsRendered');
-    if (!hasTopicsRegionsRendered) {
-      fetchInitialData();
-      // Set a flag in sessionStorage to prevent re-execution
-      sessionStorage.setItem('hasTopicsRegionsRendered', 'true');
-    }
-    // fetchInitialData();
-  }, [dispatch]);
+  const hasTopicsRegionsRendered = sessionStorage.getItem('hasTopicsRegionsRendered');
+  const hasRendered = sessionStorage.getItem('hasRendered');
+  if (!hasTopicsRegionsRendered || hasTopicsRegionsRendered === null || hasTopicsRegionsRendered === undefined) {
+    fetchInitialData();
+    // Set a flag in sessionStorage to prevent re-execution
+    sessionStorage.setItem('hasTopicsRegionsRendered', 'true');
+  }
+  // useEffect(() => {
+  //   console.log("inside useEffect1")
+  //   // if page refresh, dont execute api 
+  //   if (!hasTopicsRegionsRendered || hasTopicsRegionsRendered === null || hasTopicsRegionsRendered === undefined) {
+  //     console.log("inside useEffect1 -> hasTopicsRegionsRendered:", hasTopicsRegionsRendered )
+  //     fetchInitialData();
+  //     // Set a flag in sessionStorage to prevent re-execution
+  //     sessionStorage.setItem('hasTopicsRegionsRendered', 'true');
+  //   }
+  //   // fetchInitialData();
+  // // }, [dispatch]);
+  // }, []);
+  // // });
 
   const fetchQuestions = async () => {
     const questionsResponse = await api.post('/questions', {
       topics: selectedTopics,
       regions: selectedRegions,
     });
-    console.log("forntend -> PlayNow.js -> fetchQuestions: ", questionsResponse)
+    // console.log("forntend -> PlayNow.js -> fetchQuestions: ", questionsResponse)
     dispatch(setQuestions(questionsResponse.data));
   };
-
-  // if page refresh, dont execute api 
-  useEffect(() => {
-    const hasRendered = sessionStorage.getItem('hasRendered');
-    console.log("frotend -> PlayNow.js -> hasRendered: ", hasRendered)
-    if (!hasRendered) {
-      fetchQuestions();
-      // Set a flag in sessionStorage to prevent re-execution
-      sessionStorage.setItem('hasRendered', 'true');
-    }
-  }, [])
+  if (!hasRendered || hasRendered === null || hasRendered === undefined) {
+    fetchQuestions();
+    // Set a flag in sessionStorage to prevent re-execution
+    sessionStorage.setItem('hasRendered', 'true');
+  }
+  // useEffect(() => {
+  //   // if page refresh, dont execute api 
+  //   if (!hasRendered || hasRendered === null || hasRendered === undefined) {
+  //     fetchQuestions();
+  //     // Set a flag in sessionStorage to prevent re-execution
+  //     sessionStorage.setItem('hasRendered', 'true');
+  //   }
+  //   // fetchQuestions();
+  // }, [])
+  // })
 
   
   // useEffect(() => {
@@ -103,8 +116,8 @@ const Playnow = () => {
     }
   };
   const handleNext = () => {
-    console.log("handleNext -> currentQuestionIndex: ", currentQuestionIndex)
-    console.log("handleNext -> questions.length: ", questions.length)
+    // console.log("handleNext -> currentQuestionIndex: ", currentQuestionIndex)
+    // console.log("handleNext -> questions.length: ", questions.length)
     if (currentQuestionIndex === questions.length - 2) {
       // No more questions, dispatch an action to fetch new questions
       fetchQuestions();

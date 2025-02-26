@@ -1,0 +1,38 @@
+/.vscode
+/cloudformation*
+/lambda_functions
+/extra_files
+/extra_files*
+info.rtf
+table-aws-.xlsx
+table-region.csv
+terminal_commands.txt
+
+#======================================================
+# BACKEND folder components that needs to be ignored 
+/backend/node_modules
+/backend/public_delete
+/backend/config.js
+/backend/config_prod.js
+
+#======================================================
+# FRONTEND folder components that needs to be ignored 
+# dependencies
+/backend/frontendui/node_modules
+/backend/frontendui/node_modules-1
+/backend/frontendui/.pnp
+/backend/frontendui/.pnp.js
+
+# testing
+/backend/frontendui/coverage
+
+
+# misc
+/backend/frontendui/.DS_Store
+/backend/frontendui/.env
+/backend/frontendui/.env.test.local
+/backend/frontendui/.gitignore
+
+/backend/frontendui/npm-debug.log*
+/backend/frontendui/yarn-debug.log*
+/backend/frontendui/yarn-error.log*

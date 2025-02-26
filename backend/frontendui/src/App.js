@@ -15,10 +15,19 @@ import MyScores from './js/MyScores';
 import Profile from './js/Profile';
 import Logout from './js/Logout';
 
+
+var apiUrl = ""
+if (config.node_env == "PROD"){
+  apiUrl = config.apiUrlProd
+} else {
+  apiUrl = config.apiUrlDev
+}
+
+console.log("apiUrl:", apiUrl)
 const api = axios.create({
   // baseURL: process.env.REACT_APP_API_URL,
-  // baseURL: config.apiUrl,
-  baseURL: "http://localhost:4000/api",
+  baseURL: apiUrl,
+  // baseURL: "http://localhost:4000/api",
   withCredentials: true,
 });
 
@@ -34,7 +43,7 @@ function App() {
   const [loggedIn, setLoggedIn] = useState(false);
   const [loading, setLoading] = useState(true);
 
-  // console.log('NODE_ENV: ', NODE_ENV)
+  console.log('NODE_ENV: ', config.node_env)
   console.log('process url ', process.env.REACT_APP_API_URL)
 
   useEffect(() => {

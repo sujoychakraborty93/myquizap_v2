@@ -17,7 +17,7 @@ import Logout from './js/Logout';
 
 
 var apiUrl = ""
-if (config.node_env == "PROD"){
+if (config.node_env === "PROD"){
   apiUrl = config.apiUrlProd
 } else {
   apiUrl = config.apiUrlDev

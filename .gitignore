@@ -12,8 +12,11 @@ terminal_commands.txt
 # BACKEND folder components that needs to be ignored 
 /backend/node_modules
 /backend/public_delete
+/backend/.env
 /backend/config.js
-/backend/config_prod.js
+/backend/config_PROD.js
+/backend/nginx_PROD-1
+/backend/nginx_PROD-2
 
 #======================================================
 # FRONTEND folder components that needs to be ignored 

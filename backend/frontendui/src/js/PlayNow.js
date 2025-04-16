@@ -12,7 +12,9 @@ import Footer from './Footer';
 import '../css/PlayNow.css'; // Assuming you create a CSS file for styling
 
 const api = axios.create({
-  baseURL: config.apiUrl,
+  // baseURL: config.apiUrl,
+  baseURL: process.env.REACT_APP_API_URL,
+  // baseURL: "http://localhost:4000/api",
   withCredentials: true,
 });
 
@@ -37,8 +39,10 @@ const Playnow = () => {
   //   return shuffledArray;
   // };
   const fetchInitialData = async () => {
+    console.log("inside fetchInitialData")
     const topicsResponse = await api.get('/topics');
     const regionsResponse = await api.get('/regions');
+    console.log("after topcis")
     dispatch(setTopics(topicsResponse.data));
     dispatch(setRegions(regionsResponse.data));
   };

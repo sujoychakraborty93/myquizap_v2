@@ -8,8 +8,8 @@ import '../css/Login.css';
 import config from '../config';
 
 const api = axios.create({
-//   baseURL: process.env.REACT_APP_API_URL,
-  baseURL: config.apiUrl,
+  baseURL: process.env.REACT_APP_API_URL,
+//   baseURL: config.apiUrl,
   withCredentials: true,
 });
 

@@ -2,31 +2,29 @@ import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Route, Routes, Link, Navigate } from 'react-router-dom';
 import './App.css';
 import axios from 'axios';
-import logo from './Assets/logo.png';
-import config from './config';
-import Header from './js/Header';
-import Footer from './js/Footer';
+// import logo from './Assets/logo.png';
+// import Header from './js/Header';
+// import Footer from './js/Footer';
 import Login from './js/Login';
 import Register from './js/Register';
 import ForgotPassword from './js/ForgotPassword';
 import Home from './js/Home';
 import PlayNow from './js/PlayNow';
-import MyScores from './js/MyScores';
+// import MyScores from './js/MyScores';
 import Profile from './js/Profile';
 import Logout from './js/Logout';
 
 
-var apiUrl = ""
-if (config.node_env === "PROD"){
-  apiUrl = config.apiUrlProd
-} else {
-  apiUrl = config.apiUrlDev
-}
+// var apiUrl = ""
+// if (config.node_env === "PROD"){
+//   apiUrl = config.apiUrlProd
+// } else {
+//   apiUrl = process.env.REACT_APP_API_URL_DEV
+// }
 
-console.log("apiUrl:", apiUrl)
+console.log("apiUrl:", process.env.REACT_APP_API_URL,)
 const api = axios.create({
-  // baseURL: process.env.REACT_APP_API_URL,
-  baseURL: apiUrl,
+  baseURL: process.env.REACT_APP_API_URL, 
   // baseURL: "http://localhost:4000/api",
   withCredentials: true,
 });
@@ -43,7 +41,6 @@ function App() {
   const [loggedIn, setLoggedIn] = useState(false);
   const [loading, setLoading] = useState(true);
 
-  console.log('NODE_ENV: ', config.node_env)
   console.log('process url ', process.env.REACT_APP_API_URL)
 
   useEffect(() => {

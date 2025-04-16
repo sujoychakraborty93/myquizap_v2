@@ -4,7 +4,8 @@ import '../css/ForgotPassword.css';
 import config from '../config';
 
 const api = axios.create({
-    baseURL: config.apiUrl,
+    // baseURL: config.apiUrl,
+    baseURL: process.env.REACT_APP_API_URL,
     withCredentials: true,
 });
 

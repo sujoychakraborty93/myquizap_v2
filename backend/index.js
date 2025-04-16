@@ -1,5 +1,5 @@
 import express, { json } from "express";
-import {PORT, mongodbURL, SESSION_SECRET_KEY, JWT_SECRET_KEY, ORIGIN, NODE_ENV} from "./config.js";
+// import {PORT, mongodbURL, SESSION_SECRET_KEY, JWT_SECRET_KEY, ORIGIN, NODE_ENV} from "./config.js";
 import mongoose from "mongoose";
 import cookieParser from "cookie-parser";
 import bcrypt from 'bcryptjs';
@@ -15,6 +15,8 @@ import { topicModel } from "./models/TopicModel.js";
 import { regionModel } from "./models/RegionModel.js";
 import questionsRouter from './route/questions.js';
 // import {} from "../frontend/frontendui/build"
+import dotenv from 'dotenv';
+dotenv.config();
 
 
 const app = express();
@@ -24,8 +26,11 @@ const COOKIE_NAME = 'auth_token';
 import path from "path"; 
 const _dirname = path.dirname("");
 const buildpath = path.join(_dirname, "/frontendui/build")
-if (NODE_ENV == "PROD") {
+if (process.env.NODE_ENV == "PROD") {
     app.use(express.static(buildpath))
+    app.get('/', (req, res) => {
+        res.sendFile('/frontendui/build/index.html', { root: '.' })
+    })
 }
 // -- use for prod build end
 
@@ -34,7 +39,7 @@ if (NODE_ENV == "PROD") {
 app.use(express.json());
 // app.use(cors({credentials: true, origin: true}))
 app.use(cors({
-    origin: ORIGIN,
+    origin: process.env.ORIGIN,
     // origin: "http://localhost:3000", // 3000 for dev
     credentials: true
 }));
@@ -42,7 +47,7 @@ app.use(bodyParser.json());
 app.use(cookieParser());
 // Set up session middleware
 app.use(session({
-    secret: SESSION_SECRET_KEY,   // Replace with a strong secret key
+    secret: process.env.SESSION_SECRET_KEY,   // Replace with a strong secret key
     resave: false,               // Do not save session if unmodified
     saveUninitialized: true,     // Save uninitialized sessions
     cookie: { maxAge: 60000 }    // Session cookie will expire in 1 minute for demonstration purposes
@@ -54,7 +59,7 @@ var ct = 0;
 
 mongoose
     // .connect(mongodbURL,{ useNewUrlParser: true, useUnifiedTopology: true })
-    .connect(mongodbURL)
+    .connect(process.env.MONGODBURL)
     .then(() => {
         console.log('mongodb connection successful')
     })
@@ -75,7 +80,6 @@ app.get('/start', (req, res) => {
     if (!req.session.score) {
         req.session.score = 0;
     }
-
     res.send(`Welcome Guest! Your game has started. Your current score is ${req.session.score}.`);
 });
 
@@ -105,7 +109,7 @@ app.post('/api/register', async (req, res) => {
 
         // Return JWT token
         const payload = { user: { id: user._id } };
-        const token = jwt.sign(payload, JWT_SECRET_KEY, { expiresIn: '1h' });
+        const token = jwt.sign(payload, process.env.JWT_SECRET_KEY, { expiresIn: '1h' });
         res.cookie('token', token, { httpOnly: true, sameSite: 'strict', secure: false });
 
         // res.status(201).json({ token });
@@ -136,11 +140,11 @@ app.post('/api/login', async (req, res) => {
         // console.log("logiin 2")
         // Return JWT token
         const payload = { user: { id: user._id } };
-        const token = jwt.sign(payload, JWT_SECRET_KEY, { expiresIn: '1h' });
-        // const token = jwt.sign(payload, JWT_SECRET_KEY, { expiresIn: 60 });
+        const token = jwt.sign(payload, process.env.JWT_SECRET_KEY, { expiresIn: '1h' });
+        // const token = jwt.sign(payload, process.env.JWT_SECRET_KEY, { expiresIn: 60 });
         // var dateCookie = new Date();
         // dateCookie.setTime(dateCookie.getTime() + (60 * 1000));
-        // const token = jwt.sign(payload, JWT_SECRET_KEY, { expiresIn: dateCookie });
+        // const token = jwt.sign(payload, process.env.JWT_SECRET_KEY, { expiresIn: dateCookie });
         res.cookie(COOKIE_NAME, token, { httpOnly: true, sameSite: 'strict', secure: false }); // set secure: true if you're using https 
         // console.log('Logged in successfully')
         // res.json({ token });
@@ -176,7 +180,7 @@ app.get('/api/check-auth', (req, res) => {
     }
 
     try {
-        const user = jwt.verify(token, JWT_SECRET_KEY);
+        const user = jwt.verify(token, process.env.JWT_SECRET_KEY);
         console.log("in check-auth, got user: ", user)
         res.json({ loggedIn: true, user });
     } catch (error) {
@@ -316,9 +320,6 @@ app.post('/api/updatescore', async (req, res) => {
         res.status(500).send('Error updating scores');
     }
     
-    
-    
-    
     if (typeof points === 'number' && typeof questionsattempted === 'number') {
         // req.session.score = (req.session.score || 0) + points;
         const updateScore = await 
@@ -344,12 +345,12 @@ app.get('/reset', (req, res) => {
 //     $and: [{$or: [{topic: {$in: [topic] }}, {qty :{$gt: 50}}]},
 //       {$or: [{region: region}, {price: {$lt: 5 }}]}]})
 
-if (NODE_ENV == "PROD") {
-    app.get('*', (req, res) => {
-        res.sendFile('/frontendui/build/index.html', { root: '.' })
-    })
-}
+// if (process.env.NODE_ENV == "PROD") {
+//     app.get('*', (req, res) => {
+//         res.sendFile('/frontendui/build/index.html', { root: '.' })
+//     })
+// }
 
-app.listen(PORT, () => {
-    console.log(`listening to Port: ${PORT}`);
+app.listen(process.env.PORT, () => {
+    console.log(`listening to Port: ${process.env.PORT}`);
 });

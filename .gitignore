@@ -39,3 +39,7 @@ terminal_commands.txt
 /backend/frontendui/npm-debug.log*
 /backend/frontendui/yarn-debug.log*
 /backend/frontendui/yarn-error.log*
+
+# =======================
+/backend/database/test.py
+/backend/database/test2.py

@@ -17,11 +17,11 @@ from pymongo import MongoClient
 
 def fetch_answers_from_db():
     print('a')
-    mongo_uri = 'mongodb+srv://mongodbadmin:mongodbadmin@cluster0.cb0mw.mongodb.net/MyQuizAp?retryWrites=true&w=majority&appName=Cluster0'
-    # mongo_uri = 'mongodb+srv://mongodbadmin:mongodbadmin@cluster0.cb0mw.mongodb.net/MyQuizAp?retryWrites=true&w=majority'
-    # mongo_uri = 'mongodb+srv://mongodbadmin:mongodbadmin@cluster0.cb0mw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
-    # mongo_uri = 'mongodb+srv://mongodbadmin:mongodbadmin@cluster0.cb0mw.mongodb.net/?retryWrites=true&w=majority'
-    # mongo_uri = 'mongodb+srv://mongodbadmin:mongodbadmin@cluster0.cb0mw.mongodb.net'
+    mongo_uri = 'mongodb+srv://userid:psw@cluster0.cb0mw.mongodb.net/MyQuizAp?retryWrites=true&w=majority&appName=Cluster0'
+    # mongo_uri = 'mongodb+srv://userid:psw@cluster0.cb0mw.mongodb.net/MyQuizAp?retryWrites=true&w=majority'
+    # mongo_uri = 'mongodb+srv://userid:psw@cluster0.cb0mw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
+    # mongo_uri = 'mongodb+srv://userid:psw@cluster0.cb0mw.mongodb.net/?retryWrites=true&w=majority'
+    # mongo_uri = 'mongodb+srv://userid:psw@cluster0.cb0mw.mongodb.net'
     print('b')
     # Connection to the MongoDB Server
     # mongoClient = MongoClient('Your_IP: Your_Port')

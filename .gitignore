@@ -41,5 +41,5 @@ terminal_commands.txt
 /backend/frontendui/yarn-error.log*
 
 # =======================
-/backend/database/test.py
-/backend/database/test2.py
+/database/test.py
+/database/test2.py
